@@ -1,0 +1,27 @@
+header {
+navbar-dark {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item-active {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-disabled
+}
+}
+}
+}
+}
+main {
+carousel-slide
+}
