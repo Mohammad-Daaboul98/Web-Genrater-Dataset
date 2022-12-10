@@ -120,5 +120,29 @@
     "card-mb-4-shadow": "<div class=\"card mb-4 shadow\">\n{}\n</div>\n",
     "btn-outline-secondary-sm": "<button class=\"btn btn-outline-secondary\" type=\"button\">[]</button>\n",
     "btn-primary-my-2": "<a class=\"btn btn-primary my-2\" href=\"#\">[]</a>\n",
-    "btn-secondary-my-2": "<a class=\"btn btn-secondary my-2\" href=\"#\">[]</a>\n"
+    "btn-secondary-my-2": "<a class=\"btn btn-secondary my-2\" href=\"#\">[]</a>\n",
+
+
+    
+    "//comment6" : "6th Landing page.",
+    "d-flex-flex-column-h-100":"<div class=\"d-flex flex-column h-100\">\n{}\n</div>\n",  
+    "flex-shrink-0":" <main class=\"flex-shrink-0\"> \n{}\n </main>\n",
+    "navbar-navbar-expand-lg-navbar-dark-bg-dark":"<nav class=\"navbar navbar-expand-lg navbar-dark bg-dark\">\n{}\n </nav>\n",
+    "container-px-5": "<div class=\"container px-5\">\n{}\n</div>\n",
+    "collapse-navbar-collapse": "<div class=\"collapse-navbar-collapse\">\n{}\n</div>\n",
+    "navbar-nav-ms-auto-mb-2-mb-lg-0": " <ul class=\"navbar-nav ms-auto mb-2 mb-lg-0\">\n{}\n</ul>\n",
+    "dropdown-menu-dropdown-menu-end":"<ul class=\"dropdown-menu dropdown-menu-end\" aria-labelledby=\"navbarDropdownBlog\">\n{}\n</ul>\n",
+    "py-5": "<section class=\"py-5\">\n{}\n</section>\n",
+    "container-px-5-my-5":"<div class=\"container px-5 my-5\">\n{}\n</div>\n",
+    "row-gx-5":"<div class=\"row gx-5\">\n{}\n</div>\n",
+    "row-gx-5-justify-content-center":"<div class=\"row gx-5 justify-content-center\">\n{}\n</div>\n",
+    "col-lg-6":"<div class=\"col-lg-6\">\n{}\n</div>\n",
+    "text-center-mb-5": "<div class=\"text-center mb-5\">\n{}\n</div>\n",
+    "fw-bolder":"<h1 class=\"fw-bolder\">[]</h1>\n",   
+    "lead-fw-normal-text-muted-mb-0":"<p class=\"lead fw-normal text-muted mb-0\">[]</p>\n",
+    "col-12":"<div class=\"col-12\">\n{}\n</div>\n",
+    "text-decoration-none":"<a class=\"text-decoration-none\" href=\"#\">[]</a>\n",
+    "nav-link" : "<a class=\"nav-link\" href=\"#\">[]</a>\n",
+    "img-fluid-rounded-3-mb-5":"<img class=\"img-fluid rounded-3 mb-5\" src=\"https://dummyimage.com/1300x700/343a40/6c757d\" alt=\"Card image cap\">\n"
+ 
 }
