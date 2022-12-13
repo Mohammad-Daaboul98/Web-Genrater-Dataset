@@ -1,0 +1,45 @@
+carousel-slide 
+section-jumbotron-text-center {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+container-marketing {
+ row  {
+ col-md-7 {
+ h-featurette {
+ text-muted  
+}
+ paragraph-lead 
+}
+ col-md-5 {
+ svg-500px 
+}
+}
+}
+ featurette-divider 
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+}
+}
+ featurette-divider 
