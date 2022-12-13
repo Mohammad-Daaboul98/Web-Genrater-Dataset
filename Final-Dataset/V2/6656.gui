@@ -1,18 +1,18 @@
-header{
- navbar-success{
+header {
+ navbar-success {
  navbar-brand 
- navbar-toggler{
+ navbar-toggler {
  navbar-toggler-icon 
 }
- navbar-collapse{
- navbar-nav{
- nav-item-active{
+ navbar-collapse {
+ navbar-nav {
+ nav-item-active {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-undisabled 
 }
 }
@@ -21,55 +21,55 @@ header{
 }
 }
 carousel-slide 
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
 }
 }
  featurette-divider 
-jumbotron-center{
- container{
- h-jumbotron,paragraph-lead-text-muted 
- p-btn{
- btn-primary-my-2,btn-secondary-my-2 
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
 }
 }
 }
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
@@ -78,55 +78,55 @@ container{
 }
 }
 carousel-slide 
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
 }
 }
  featurette-divider 
-jumbotron-center{
- container{
- h-jumbotron,paragraph-lead-text-muted 
- p-btn{
- btn-primary-my-2,btn-secondary-my-2 
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
 }
 }
 }
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 

@@ -1,18 +1,18 @@
-header{
- navbar-success{
+header {
+ navbar-success {
  navbar-brand 
- navbar-toggler{
+ navbar-toggler {
  navbar-toggler-icon 
 }
- navbar-collapse{
- navbar-nav{
- nav-item-active{
+ navbar-collapse {
+ navbar-nav {
+ nav-item-active {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-undisabled 
 }
 }
@@ -21,30 +21,30 @@ header{
 }
 }
 carousel-slide 
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
 }
 }
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }

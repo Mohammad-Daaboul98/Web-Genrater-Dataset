@@ -1,20 +1,20 @@
-header{
- collapse-bg-dark{
- container{
- row{
- col-sm-8-col-md-7-py-4{
- h-4-text-white,paragraph-lead-text-muted 
+header {
+ collapse-bg-dark {
+ container {
+ row {
+ col-sm-8-col-md-7-py-4 {
+ h-4-text-white, paragraph-lead-text-muted 
 }
- col-sm-4-offset-md-1-py-4{
+ col-sm-4-offset-md-1-py-4 {
  h-4-text-white 
- list-unstyled-only{
- li{
+ list-unstyled-only {
+ li {
  a-text-white 
 }
- li{
+ li {
  a-text-white 
 }
- li{
+ li {
  a-text-white 
 }
 }
@@ -22,30 +22,30 @@ header{
 }
 }
 }
- navbar-dark-bg-dark-shadow{
- d-flex-justify-content-between{
- a-navbar-brand-d-flex-align-items-center,navbar-toggler-icon-span 
+ navbar-dark-bg-dark-shadow {
+ d-flex-justify-content-between {
+ a-navbar-brand-d-flex-align-items-center, navbar-toggler-icon-span 
 }
 }
 }
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
@@ -53,48 +53,48 @@ container{
 }
 }
 }
-jumbotron-center{
- container{
- h-jumbotron,paragraph-lead-text-muted 
- p-btn{
- btn-primary-my-2,btn-secondary-my-2 
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
 }
 }
 }
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
 }
 }
-container{
- card-deck{
- card{
- card-header{
+container {
+ card-deck {
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 

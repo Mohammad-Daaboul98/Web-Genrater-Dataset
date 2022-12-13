@@ -1,18 +1,18 @@
-header{
- navbar-dark{
+header {
+ navbar-dark {
  navbar-brand 
- navbar-toggler{
+ navbar-toggler {
  navbar-toggler-icon 
 }
- navbar-collapse{
- navbar-nav{
- nav-item-active{
+ navbar-collapse {
+ navbar-nav {
+ nav-item-active {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-disabled 
 }
 }
@@ -20,61 +20,61 @@ header{
 }
 }
 }
-jumbotron-center{
- container{
- h-jumbotron,paragraph-lead-text-muted 
- p-btn{
- btn-primary-my-2,btn-secondary-my-2 
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
 }
 }
 }
-jumbotron-center{
- container{
- h-jumbotron,paragraph-lead-text-muted 
- p-btn{
- btn-primary-my-2,btn-secondary-my-2 
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
 }
 }
 }
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
 }
 }
 carousel-slide 
-container-marketing{
- row {
- col-md-7{
- h-featurette{
+container-marketing {
+ row  {
+ col-md-7 {
+ h-featurette {
  text-muted  
 }
  paragraph-lead 
 }
- col-md-5{
+ col-md-5 {
  svg-500px 
 }
 }
 }
  featurette-divider 
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }

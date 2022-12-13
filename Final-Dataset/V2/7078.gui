@@ -1,18 +1,18 @@
-header{
- navbar-dark{
+header {
+ navbar-dark {
  navbar-brand 
- navbar-toggler{
+ navbar-toggler {
  navbar-toggler-icon 
 }
- navbar-collapse{
- navbar-nav{
- nav-item-active{
+ navbar-collapse {
+ navbar-nav {
+ nav-item-active {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-disabled 
 }
 }
@@ -20,53 +20,53 @@ header{
 }
 }
 }
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
 }
 }
  featurette-divider 
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
 }
 }
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
@@ -74,24 +74,24 @@ container-marketing{
 }
  featurette-divider 
 carousel-slide 
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
@@ -99,33 +99,33 @@ container{
 }
 }
 }
-container{
- card-deck{
- card{
- card-header{
+container {
+ card-deck {
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
@@ -133,53 +133,53 @@ container{
 }
 }
 }
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
 }
 }
  featurette-divider 
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
 }
 }
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
@@ -187,24 +187,24 @@ container-marketing{
 }
  featurette-divider 
 carousel-slide 
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
@@ -212,33 +212,33 @@ container{
 }
 }
 }
-container{
- card-deck{
- card{
- card-header{
+container {
+ card-deck {
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 

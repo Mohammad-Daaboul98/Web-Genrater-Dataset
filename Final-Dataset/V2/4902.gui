@@ -1,52 +1,52 @@
-jumbotron-center{
- container{
- h-jumbotron,paragraph-lead-text-muted 
- p-btn{
- btn-primary-my-2,btn-secondary-my-2 
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
 }
 }
 }
-container-marketing{
- row {
- col-md-7{
- h-featurette{
+container-marketing {
+ row  {
+ col-md-7 {
+ h-featurette {
  text-muted  
 }
  paragraph-lead 
 }
- col-md-5{
+ col-md-5 {
  svg-500px 
 }
 }
 }
  featurette-divider 
-container{
- card-deck{
- card{
- card-header{
+container {
+ card-deck {
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
@@ -54,32 +54,32 @@ container{
 }
 }
 }
-container-marketing{
- row {
- col-md-7{
- h-featurette{
+container-marketing {
+ row  {
+ col-md-7 {
+ h-featurette {
  text-muted  
 }
  paragraph-lead 
 }
- col-md-5{
+ col-md-5 {
  svg-500px 
 }
 }
 }
  featurette-divider 
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
 }
 }
-jumbotron-center{
- container{
- h-jumbotron,paragraph-lead-text-muted 
- p-btn{
- btn-primary-my-2,btn-secondary-my-2 
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
 }
 }
 }

@@ -1,18 +1,18 @@
-header{
- navbar-primary{
+header {
+ navbar-primary {
  navbar-brand 
- navbar-toggler{
+ navbar-toggler {
  navbar-toggler-icon 
 }
- navbar-collapse{
- navbar-nav{
- nav-item-active{
+ navbar-collapse {
+ navbar-nav {
+ nav-item-active {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-disabled 
 }
 }
@@ -21,46 +21,46 @@ header{
 }
 }
 carousel-slide 
-jumbotron-center{
- container{
- h-jumbotron,paragraph-lead-text-muted 
- p-btn{
- btn-primary-my-2,btn-secondary-my-2 
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
 }
 }
 }
-container-marketing{
- row {
- col-md-7{
- h-featurette{
+container-marketing {
+ row  {
+ col-md-7 {
+ h-featurette {
  text-muted  
 }
  paragraph-lead 
 }
- col-md-5{
+ col-md-5 {
  svg-500px 
 }
 }
 }
  featurette-divider 
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
@@ -69,46 +69,46 @@ container{
 }
 }
 carousel-slide 
-jumbotron-center{
- container{
- h-jumbotron,paragraph-lead-text-muted 
- p-btn{
- btn-primary-my-2,btn-secondary-my-2 
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
 }
 }
 }
-container-marketing{
- row {
- col-md-7{
- h-featurette{
+container-marketing {
+ row  {
+ col-md-7 {
+ h-featurette {
  text-muted  
 }
  paragraph-lead 
 }
- col-md-5{
+ col-md-5 {
  svg-500px 
 }
 }
 }
  featurette-divider 
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 

@@ -1,20 +1,20 @@
-header{
- collapse-bg-dark{
- container{
- row{
- col-sm-8-col-md-7-py-4{
- h-4-text-white,paragraph-lead-text-muted 
+header {
+ collapse-bg-dark {
+ container {
+ row {
+ col-sm-8-col-md-7-py-4 {
+ h-4-text-white, paragraph-lead-text-muted 
 }
- col-sm-4-offset-md-1-py-4{
+ col-sm-4-offset-md-1-py-4 {
  h-4-text-white 
- list-unstyled-only{
- li{
+ list-unstyled-only {
+ li {
  a-text-white 
 }
- li{
+ li {
  a-text-white 
 }
- li{
+ li {
  a-text-white 
 }
 }
@@ -22,135 +22,135 @@ header{
 }
 }
 }
- navbar-dark-bg-dark-shadow{
- d-flex-justify-content-between{
- a-navbar-brand-d-flex-align-items-center,navbar-toggler-icon-span 
+ navbar-dark-bg-dark-shadow {
+ d-flex-justify-content-between {
+ a-navbar-brand-d-flex-align-items-center, navbar-toggler-icon-span 
 }
 }
 }
-jumbotron-center{
- container{
- h-jumbotron,paragraph-lead-text-muted 
- p-btn{
- btn-primary-my-2,btn-secondary-my-2 
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
 }
 }
 }
 carousel-slide 
 carousel-slide 
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
 }
 }
  featurette-divider 
-container-marketing{
- row {
- col-md-7{
- h-featurette{
+container-marketing {
+ row  {
+ col-md-7 {
+ h-featurette {
  text-muted  
 }
  paragraph-lead 
 }
- col-md-5{
+ col-md-5 {
  svg-500px 
 }
 }
 }
  featurette-divider 
-album-py-5-bg-light{
- container{
- row{
- col-md-4{
- card-mb-4-shadow{
+album-py-5-bg-light {
+ container {
+ row {
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
@@ -159,33 +159,33 @@ album-py-5-bg-light{
 }
 }
 }
-container{
- card-deck{
- card{
- card-header{
+container {
+ card-deck {
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
@@ -193,129 +193,129 @@ container{
 }
 }
 }
-jumbotron-center{
- container{
- h-jumbotron,paragraph-lead-text-muted 
- p-btn{
- btn-primary-my-2,btn-secondary-my-2 
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
 }
 }
 }
 carousel-slide 
 carousel-slide 
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
 }
 }
  featurette-divider 
-container-marketing{
- row {
- col-md-7{
- h-featurette{
+container-marketing {
+ row  {
+ col-md-7 {
+ h-featurette {
  text-muted  
 }
  paragraph-lead 
 }
- col-md-5{
+ col-md-5 {
  svg-500px 
 }
 }
 }
  featurette-divider 
-album-py-5-bg-light{
- container{
- row{
- col-md-4{
- card-mb-4-shadow{
+album-py-5-bg-light {
+ container {
+ row {
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
@@ -324,33 +324,33 @@ album-py-5-bg-light{
 }
 }
 }
-container{
- card-deck{
- card{
- card-header{
+container {
+ card-deck {
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 

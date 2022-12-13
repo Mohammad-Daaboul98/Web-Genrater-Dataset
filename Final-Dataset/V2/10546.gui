@@ -1,18 +1,18 @@
-header{
- navbar-success{
+header {
+ navbar-success {
  navbar-brand 
- navbar-toggler{
+ navbar-toggler {
  navbar-toggler-icon 
 }
- navbar-collapse{
- navbar-nav{
- nav-item-active{
+ navbar-collapse {
+ navbar-nav {
+ nav-item-active {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-undisabled 
 }
 }
@@ -20,24 +20,24 @@ header{
 }
 }
 }
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
@@ -45,63 +45,38 @@ container{
 }
 }
 }
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
 }
 }
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
 }
 }
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
- h-2 
- paragraph 
- btn-danger 
- }
- }
- col-md-4{
- text-center{
- h-2 
- paragraph 
- btn-danger 
-}
-}
-}
-}
-container{
- row{
- col-md-4{
- text-center{
- h-2 
- paragraph 
- btn-danger 
-}
-}
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
@@ -109,38 +84,63 @@ container{
 }
 }
 }
-section-jumbotron-text-center{
- container{
+container {
+ row {
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
 }
 }
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
 }
 }
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 

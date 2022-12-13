@@ -1,39 +1,39 @@
 carousel-slide 
-jumbotron-center{
- container{
- h-jumbotron,paragraph-lead-text-muted 
- p-btn{
- btn-primary-my-2,btn-secondary-my-2 
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
 }
 }
 }
-container{
- card-deck{
- card{
- card-header{
+container {
+ card-deck {
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
@@ -41,40 +41,40 @@ container{
 }
 }
 }
-container{
- row{
- col-md-4{
- text-center{
- h-2 
- paragraph 
- btn-danger 
-}
-}
- col-md-4{
- text-center{
- h-2 
- paragraph 
- btn-danger 
- }
- }
- col-md-4{
- text-center{
- h-2 
- paragraph 
- btn-danger 
-}
-}
-}
-}
-container-marketing{
+container {
  row {
- col-md-7{
- h-featurette{
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+container-marketing {
+ row  {
+ col-md-7 {
+ h-featurette {
  text-muted  
 }
  paragraph-lead 
 }
- col-md-5{
+ col-md-5 {
  svg-500px 
 }
 }

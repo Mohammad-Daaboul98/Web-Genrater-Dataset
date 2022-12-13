@@ -1,20 +1,20 @@
-header{
- collapse-bg-dark{
- container{
- row{
- col-sm-8-col-md-7-py-4{
- h-4-text-white,paragraph-lead-text-muted 
+header {
+ collapse-bg-dark {
+ container {
+ row {
+ col-sm-8-col-md-7-py-4 {
+ h-4-text-white, paragraph-lead-text-muted 
 }
- col-sm-4-offset-md-1-py-4{
+ col-sm-4-offset-md-1-py-4 {
  h-4-text-white 
- list-unstyled-only{
- li{
+ list-unstyled-only {
+ li {
  a-text-white 
 }
- li{
+ li {
  a-text-white 
 }
- li{
+ li {
  a-text-white 
 }
 }
@@ -22,30 +22,30 @@ header{
 }
 }
 }
- navbar-dark-bg-dark-shadow{
- d-flex-justify-content-between{
- a-navbar-brand-d-flex-align-items-center,navbar-toggler-icon-span 
+ navbar-dark-bg-dark-shadow {
+ d-flex-justify-content-between {
+ a-navbar-brand-d-flex-align-items-center, navbar-toggler-icon-span 
 }
 }
 }
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
@@ -54,23 +54,23 @@ container{
 }
 }
 carousel-slide 
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
@@ -78,24 +78,24 @@ container-marketing{
 }
  featurette-divider 
 carousel-slide 
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
@@ -104,23 +104,23 @@ container{
 }
 }
 carousel-slide 
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }

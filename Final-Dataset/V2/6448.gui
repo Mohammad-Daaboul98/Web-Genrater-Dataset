@@ -1,18 +1,18 @@
-header{
- navbar-dark{
+header {
+ navbar-dark {
  navbar-brand 
- navbar-toggler{
+ navbar-toggler {
  navbar-toggler-icon 
 }
- navbar-collapse{
- navbar-nav{
- nav-item-active{
+ navbar-collapse {
+ navbar-nav {
+ nav-item-active {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-disabled 
 }
 }
@@ -20,38 +20,38 @@ header{
 }
 }
 }
-container-marketing{
- row {
- col-md-7{
- h-featurette{
+container-marketing {
+ row  {
+ col-md-7 {
+ h-featurette {
  text-muted  
 }
  paragraph-lead 
 }
- col-md-5{
+ col-md-5 {
  svg-500px 
 }
 }
 }
  featurette-divider 
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
@@ -59,33 +59,33 @@ container{
 }
 }
 }
-container{
- card-deck{
- card{
- card-header{
+container {
+ card-deck {
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
@@ -93,82 +93,82 @@ container{
 }
 }
 }
-album-py-5-bg-light{
- container{
- row{
- col-md-4{
- card-mb-4-shadow{
+album-py-5-bg-light {
+ container {
+ row {
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
@@ -177,23 +177,23 @@ album-py-5-bg-light{
 }
 }
 }
-container-marketing{
- row{
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }
- col-lg-4{
- svg-140px,h-2,paragraph 
- p-btn{
+ col-lg-4 {
+ svg-140px, h-2, paragraph 
+ p-btn {
  btn-secondary 
 }
 }

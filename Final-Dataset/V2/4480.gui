@@ -1,18 +1,18 @@
-header{
- navbar-warning{
+header {
+ navbar-warning {
  navbar-brand 
- navbar-toggler{
+ navbar-toggler {
  navbar-toggler-icon 
 }
- navbar-collapse{
- navbar-nav{
- nav-item-active{
+ navbar-collapse {
+ navbar-nav {
+ nav-item-active {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-disabled 
 }
 }
@@ -20,8 +20,8 @@ header{
 }
 }
 }
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
@@ -29,24 +29,24 @@ section-jumbotron-text-center{
 }
 carousel-slide 
 carousel-slide 
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
@@ -54,82 +54,82 @@ container{
 }
 }
 }
-album-py-5-bg-light{
- container{
- row{
- col-md-4{
- card-mb-4-shadow{
+album-py-5-bg-light {
+ container {
+ row {
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
@@ -138,8 +138,8 @@ album-py-5-bg-light{
 }
 }
 }
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
@@ -147,24 +147,24 @@ section-jumbotron-text-center{
 }
 carousel-slide 
 carousel-slide 
-container{
- row{
- col-md-4{
- text-center{
+container {
+ row {
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
 }
 }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
  }
  }
- col-md-4{
- text-center{
+ col-md-4 {
+ text-center {
  h-2 
  paragraph 
  btn-danger 
@@ -172,82 +172,82 @@ container{
 }
 }
 }
-album-py-5-bg-light{
- container{
- row{
- col-md-4{
- card-mb-4-shadow{
+album-py-5-bg-light {
+ container {
+ row {
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
 }
 }
- col-md-4{
- card-mb-4-shadow{
+ col-md-4 {
+ card-mb-4-shadow {
  card-img-top 
- card-body{
+ card-body {
  paragraph-card-text 
- d-flex-justify-content-between{
- btn-group{
- btn-outline-secondary-sm,btn-outline-secondary-sm 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm, btn-outline-secondary-sm 
 }
 }
 }
