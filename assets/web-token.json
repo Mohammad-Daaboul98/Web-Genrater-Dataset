@@ -52,10 +52,9 @@
     "p-btn": "<p>\n{}\n</p>\n",
     "btn-primary": "<a class=\"btn btn-primary\" href=\"#\">[]</a>\n",
     "btn-secondary": "<a class=\"btn btn-secondary\" href=\"#\">[]</a>\n",
-    "btn-outline-success": "<button class=\"btn btn-outline-success\" type=\"submit\">[]</button>",
+    "btn-outline-success": "<button class=\"btn btn-outline-success\" placeholder=\"submit\"  type=\"submit\">submit</button>",
     "featurette-divider": "<hr class=\"featurette-divider\">\n",
     "text-muted":"<span class=\"text-muted\">[]</span>\n",
-
     "//comment2": "2th Landing page.",
     "h5-my-0": "<h5 class=\"my-0 mr-md-auto font-weight-normal\">[]</h5>\n",
     "nav-my-2": "<nav class=\"my-2 my-md-0 mr-md-3\">\n",
@@ -165,11 +164,17 @@
     "needs-validation":"<form class=\"needs-validation\">\n{}\n</form>\n",
     "col-md-6-mb-3":"<div class=\"col-md-6 mb-3\">\n{}\n</div>\n",
     "invalid-feedback":"<div class=\"invalid-feedback\">\n{}\n</div>\n",
-    "custom-select-d-block-w-100":"<select class=\"custom-select d-block w-100\" id=\"country\" required><option value=\"[]\">[]</option><option>[]</option></select>",
     "mb-4":"<hr class=\"mb-4\">n{}</hr>\n",    
-    "custom-control-custom-checkbox":"<div class=\"custom-control custom-checkbox\">\n{}\n</div>\n",
-    "custom-control-input":"<input class=\"custom-control-input\" type=\"checkbox\" id=\"save-info\">\n",
-    "custom-control-custom-radio":"<div class=\"custom-control custom-radio\">\n{}\n</div>\n"
+    "custom-control-custom-radio":"<div class=\"custom-control custom-radio\">\n{}\n</div>\n",
 
-
+    
+    "//form" : "form-th Landing page.",
+    "bg-light-rounded-3-py-5-px-4-px-md-5-mb-5":"<div class=\"bg-light rounded-3 py-5 px-4 px-md-5 mb-5\">\n{}\n</div>\n",
+    "col-lg-8-col-xl-6":"<div class=\"col-lg-8 col-xl-6\">\n<form id=\"contactForm\" data-sb-form-api-token=\"API_TOKEN\">\n<div class=\"form-floating mb-3\">\n<input class=\"form-control is-invalid\" id=\"name\" type=\"text\" placeholder=\"Enter your name...\" data-sb-validations=\"required\" data-sb-can-submit=\"no\">\n<label for=\"name\">[]</label>\n</form>\n</div>\n",
+    "custom-select-d-block-w-100":"<select class=\"custom-select d-block w-100\" id=\"country\" required>\n<option value=\"select\" placeholder=\"choose...\" ><option>1</option><option>2</option><option>3</option></select>\n",
+    "form-floating-mb-3":"<div class=\"form-floating mb-3\">\n<form id=\"contactForm\" data-sb-form-api-token=\"API_TOKEN\">\n<input class=\"form-control is-invalid\" id=\"email\" type=\"email\" placeholder=\"name@example.com\" data-sb-validations=\"required\" data-sb-can-submit=\"no\">\n<label for=\"name\">[]</label>\n</form>\n</div>\n",
+    "form-control-is-invalid":"<input class=\"form-control-is-invalid\" type=\"text\" id=\"name\">\n",
+    "d-none":"<div class=\"d-none\">n{}</div>\n" ,
+    "custom-control-custom-checkbox":"<div class=\"custom-control custom-checkbox\">\n<input class=\"custom-control custom-checkbox\" type=\"checkbox\" id=\"save-info\" name=\"checkbox\">\n</div>\n"
+    
 }
