@@ -1,0 +1,114 @@
+header{
+ collapse-bg-info{
+ container{
+ row{
+ col-sm-8-col-md-7-py-4{
+ h-4-text-white,paragraph-lead-light 
+}
+ col-sm-4-offset-md-1-py-4{
+ h-4-text-white 
+ list-unstyled-only{
+ li{
+ a-text-white 
+}
+ li{
+ a-text-white 
+}
+ li{
+ a-text-white 
+}
+}
+}
+}
+}
+}
+ navbar-dark-bg-info-shadow{
+ d-flex-justify-content-between{
+ a-navbar-brand-d-flex-align-items-center,navbar-toggler-icon-span 
+}
+}
+}
+container{
+ row{
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+container{
+ row{
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+container{
+ card-deck{
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}

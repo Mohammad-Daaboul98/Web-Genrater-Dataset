@@ -1,0 +1,106 @@
+header{
+ collapse-bg-primary{
+ container{
+ row{
+ col-sm-8-col-md-7-py-4{
+ h-4-text-white,paragraph-lead-light 
+}
+ col-sm-4-offset-md-1-py-4{
+ h-4-text-white 
+ list-unstyled-only{
+ li{
+ a-text-white 
+}
+ li{
+ a-text-white 
+}
+ li{
+ a-text-white 
+}
+}
+}
+}
+}
+}
+ navbar-dark-bg-primary-shadow{
+ d-flex-justify-content-between{
+ a-navbar-brand-d-flex-align-items-center,navbar-toggler-icon-span 
+}
+}
+}
+container-marketing{
+ row {
+ col-md-7{
+ h-featurette{
+ text-muted  
+}
+ paragraph-lead 
+}
+ col-md-5{
+ svg-500px 
+}
+}
+}
+ featurette-divider 
+carousel-slide 
+jumbotron-center{
+ container{
+ h-jumbotron,paragraph-lead-text-muted 
+ p-btn{
+ btn-primary-my-2,btn-secondary-my-2 
+}
+}
+}
+container-marketing{
+ row {
+ col-md-7{
+ h-featurette{
+ text-muted  
+}
+ paragraph-lead 
+}
+ col-md-5{
+ svg-500px 
+}
+}
+}
+ featurette-divider 
+carousel-slide 
+container-marketing{
+ row {
+ col-md-7{
+ h-featurette{
+ text-muted  
+}
+ paragraph-lead 
+}
+ col-md-5{
+ svg-500px 
+}
+}
+}
+ featurette-divider 
+carousel-slide 
+jumbotron-center{
+ container{
+ h-jumbotron,paragraph-lead-text-muted 
+ p-btn{
+ btn-primary-my-2,btn-secondary-my-2 
+}
+}
+}
+container-marketing{
+ row {
+ col-md-7{
+ h-featurette{
+ text-muted  
+}
+ paragraph-lead 
+}
+ col-md-5{
+ svg-500px 
+}
+}
+}
+ featurette-divider 
+carousel-slide 

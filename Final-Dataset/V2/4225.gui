@@ -1,0 +1,174 @@
+header{
+ collapse-bg-dark{
+ container{
+ row{
+ col-sm-8-col-md-7-py-4{
+ h-4-text-white,paragraph-lead-text-muted 
+}
+ col-sm-4-offset-md-1-py-4{
+ h-4-text-white 
+ list-unstyled-only{
+ li{
+ a-text-white 
+}
+ li{
+ a-text-white 
+}
+ li{
+ a-text-white 
+}
+}
+}
+}
+}
+}
+ navbar-dark-bg-dark-shadow{
+ d-flex-justify-content-between{
+ a-navbar-brand-d-flex-align-items-center,navbar-toggler-icon-span 
+}
+}
+}
+section-jumbotron-text-center{
+ container{
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+carousel-slide 
+container{
+ row{
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+carousel-slide 
+section-jumbotron-text-center{
+ container{
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+jumbotron-center{
+ container{
+ h-jumbotron,paragraph-lead-text-muted 
+ p-btn{
+ btn-primary-my-2,btn-secondary-my-2 
+}
+}
+}
+container-marketing{
+ row{
+ col-lg-4{
+ svg-140px,h-2,paragraph 
+ p-btn{
+ btn-secondary 
+}
+}
+ col-lg-4{
+ svg-140px,h-2,paragraph 
+ p-btn{
+ btn-secondary 
+}
+}
+ col-lg-4{
+ svg-140px,h-2,paragraph 
+ p-btn{
+ btn-secondary 
+}
+}
+}
+}
+ featurette-divider 
+section-jumbotron-text-center{
+ container{
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+carousel-slide 
+container{
+ row{
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+carousel-slide 
+section-jumbotron-text-center{
+ container{
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+jumbotron-center{
+ container{
+ h-jumbotron,paragraph-lead-text-muted 
+ p-btn{
+ btn-primary-my-2,btn-secondary-my-2 
+}
+}
+}
+container-marketing{
+ row{
+ col-lg-4{
+ svg-140px,h-2,paragraph 
+ p-btn{
+ btn-secondary 
+}
+}
+ col-lg-4{
+ svg-140px,h-2,paragraph 
+ p-btn{
+ btn-secondary 
+}
+}
+ col-lg-4{
+ svg-140px,h-2,paragraph 
+ p-btn{
+ btn-secondary 
+}
+}
+}
+}
+ featurette-divider 

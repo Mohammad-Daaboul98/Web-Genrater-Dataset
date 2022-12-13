@@ -1,0 +1,65 @@
+header{
+ navbar-primary{
+ navbar-brand 
+ navbar-toggler{
+ navbar-toggler-icon 
+}
+ navbar-collapse{
+ navbar-nav{
+ nav-item-active{
+ nav-link-undisabled 
+}
+ nav-item-unactive{
+ nav-link-undisabled 
+}
+ nav-item-unactive{
+ nav-link-disabled 
+}
+}
+ form-inline-light 
+}
+}
+}
+jumbotron-center{
+ container{
+ h-jumbotron,paragraph-lead-text-muted 
+ p-btn{
+ btn-primary-my-2,btn-secondary-my-2 
+}
+}
+}
+container{
+ card-deck{
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+carousel-slide 

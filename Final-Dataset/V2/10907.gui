@@ -1,0 +1,62 @@
+header{
+ navbar-success{
+ navbar-brand 
+ navbar-toggler{
+ navbar-toggler-icon 
+}
+ navbar-collapse{
+ navbar-nav{
+ nav-item-active{
+ nav-link-undisabled 
+}
+ nav-item-unactive{
+ nav-link-undisabled 
+}
+ nav-item-unactive{
+ nav-link-undisabled 
+}
+}
+ form-inline-light
+}
+}
+}
+container{
+ row{
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+container-marketing{
+ row {
+ col-md-7{
+ h-featurette{
+ text-muted  
+}
+ paragraph-lead 
+}
+ col-md-5{
+ svg-500px 
+}
+}
+}
+ featurette-divider 
+carousel-slide 

@@ -1,0 +1,166 @@
+carousel-slide 
+section-jumbotron-text-center{
+ container{
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+album-py-5-bg-light{
+ container{
+ row{
+ col-md-4{
+ card-mb-4-shadow{
+ card-img-top 
+ card-body{
+ paragraph-card-text 
+ d-flex-justify-content-between{
+ btn-group{
+ btn-outline-secondary-sm,btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4{
+ card-mb-4-shadow{
+ card-img-top 
+ card-body{
+ paragraph-card-text 
+ d-flex-justify-content-between{
+ btn-group{
+ btn-outline-secondary-sm,btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4{
+ card-mb-4-shadow{
+ card-img-top 
+ card-body{
+ paragraph-card-text 
+ d-flex-justify-content-between{
+ btn-group{
+ btn-outline-secondary-sm,btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4{
+ card-mb-4-shadow{
+ card-img-top 
+ card-body{
+ paragraph-card-text 
+ d-flex-justify-content-between{
+ btn-group{
+ btn-outline-secondary-sm,btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4{
+ card-mb-4-shadow{
+ card-img-top 
+ card-body{
+ paragraph-card-text 
+ d-flex-justify-content-between{
+ btn-group{
+ btn-outline-secondary-sm,btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4{
+ card-mb-4-shadow{
+ card-img-top 
+ card-body{
+ paragraph-card-text 
+ d-flex-justify-content-between{
+ btn-group{
+ btn-outline-secondary-sm,btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+}
+}
+}
+container{
+ row{
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+container{
+ card-deck{
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+carousel-slide 
+container-marketing{
+ row {
+ col-md-7{
+ h-featurette{
+ text-muted  
+}
+ paragraph-lead 
+}
+ col-md-5{
+ svg-500px 
+}
+}
+}
+ featurette-divider 

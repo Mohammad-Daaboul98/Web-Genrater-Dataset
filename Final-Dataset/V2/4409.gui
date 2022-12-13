@@ -1,0 +1,173 @@
+container{
+ row{
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+container-marketing{
+ row{
+ col-lg-4{
+ svg-140px,h-2,paragraph 
+ p-btn{
+ btn-secondary 
+}
+}
+ col-lg-4{
+ svg-140px,h-2,paragraph 
+ p-btn{
+ btn-secondary 
+}
+}
+ col-lg-4{
+ svg-140px,h-2,paragraph 
+ p-btn{
+ btn-secondary 
+}
+}
+}
+}
+ featurette-divider 
+album-py-5-bg-light{
+ container{
+ row{
+ col-md-4{
+ card-mb-4-shadow{
+ card-img-top 
+ card-body{
+ paragraph-card-text 
+ d-flex-justify-content-between{
+ btn-group{
+ btn-outline-secondary-sm,btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4{
+ card-mb-4-shadow{
+ card-img-top 
+ card-body{
+ paragraph-card-text 
+ d-flex-justify-content-between{
+ btn-group{
+ btn-outline-secondary-sm,btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4{
+ card-mb-4-shadow{
+ card-img-top 
+ card-body{
+ paragraph-card-text 
+ d-flex-justify-content-between{
+ btn-group{
+ btn-outline-secondary-sm,btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4{
+ card-mb-4-shadow{
+ card-img-top 
+ card-body{
+ paragraph-card-text 
+ d-flex-justify-content-between{
+ btn-group{
+ btn-outline-secondary-sm,btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4{
+ card-mb-4-shadow{
+ card-img-top 
+ card-body{
+ paragraph-card-text 
+ d-flex-justify-content-between{
+ btn-group{
+ btn-outline-secondary-sm,btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4{
+ card-mb-4-shadow{
+ card-img-top 
+ card-body{
+ paragraph-card-text 
+ d-flex-justify-content-between{
+ btn-group{
+ btn-outline-secondary-sm,btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+}
+}
+}
+carousel-slide 
+section-jumbotron-text-center{
+ container{
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+container{
+ row{
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+jumbotron-center{
+ container{
+ h-jumbotron,paragraph-lead-text-muted 
+ p-btn{
+ btn-primary-my-2,btn-secondary-my-2 
+}
+}
+}

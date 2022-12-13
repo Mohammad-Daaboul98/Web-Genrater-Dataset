@@ -1,0 +1,116 @@
+header{
+ navbar-dark{
+ navbar-brand 
+ navbar-toggler{
+ navbar-toggler-icon 
+}
+ navbar-collapse{
+ navbar-nav{
+ nav-item-active{
+ nav-link-undisabled 
+}
+ nav-item-unactive{
+ nav-link-undisabled 
+}
+ nav-item-unactive{
+ nav-link-disabled 
+}
+}
+ form-inline-light 
+}
+}
+}
+container-marketing{
+ row {
+ col-md-7{
+ h-featurette{
+ text-muted  
+}
+ paragraph-lead 
+}
+ col-md-5{
+ svg-500px 
+}
+}
+}
+ featurette-divider 
+container{
+ row{
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+carousel-slide 
+section-jumbotron-text-center{
+ container{
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+container-marketing{
+ row {
+ col-md-7{
+ h-featurette{
+ text-muted  
+}
+ paragraph-lead 
+}
+ col-md-5{
+ svg-500px 
+}
+}
+}
+ featurette-divider 
+container{
+ row{
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4{
+ text-center{
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+carousel-slide 
+section-jumbotron-text-center{
+ container{
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
