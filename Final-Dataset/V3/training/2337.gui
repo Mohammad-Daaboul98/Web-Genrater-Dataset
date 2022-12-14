@@ -1,6 +1,6 @@
 carousel-slide 
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 

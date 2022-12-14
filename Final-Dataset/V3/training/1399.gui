@@ -1,18 +1,18 @@
-header{
- navbar-light{
+header {
+ navbar-light {
  navbar-brand 
- navbar-toggler{
+ navbar-toggler {
  navbar-toggler-icon 
 }
- navbar-collapse{
- navbar-nav{
- nav-item-active{
+ navbar-collapse {
+ navbar-nav {
+ nav-item-active {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-undisabled 
 }
- nav-item-unactive{
+ nav-item-unactive {
  nav-link-disabled 
 }
 }
@@ -20,33 +20,33 @@ header{
 }
 }
 }
-container{
- card-deck{
- card{
- card-header{
+container {
+ card-deck {
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
 }
 }
- card{
- card-header{
+ card {
+ card-header {
  h-4 
 }
- card-body{
+ card-body {
  svg-140px 
  paragraph-lead 
  btn-danger 
@@ -54,8 +54,8 @@ container{
 }
 }
 }
-section-jumbotron-text-center{
- container{
+section-jumbotron-text-center {
+ container {
  h-1 
  paragraph-lead 
  btn-warning 
