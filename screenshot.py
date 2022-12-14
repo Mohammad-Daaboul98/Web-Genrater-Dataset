@@ -19,7 +19,7 @@ for file in os.listdir(directory):
 for i in test:
     driver.get(photo_path+i)
     S = lambda X: driver.execute_script('return document.body.parentNode.scroll'+X)
-    driver.set_window_size(S('Width'),S('Height')) # May need manual adjustment                                                                                                                
+    driver.set_window_size(1080,S('Height')) # May need manual adjustment                                                                                                                
     driver.find_element(By.TAG_NAME, 'body').screenshot(i.replace('.html', '.png'))
 
 driver.quit()
