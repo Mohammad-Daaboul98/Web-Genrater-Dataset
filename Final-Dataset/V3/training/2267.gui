@@ -1,0 +1,9 @@
+carousel-slide 
+jumbotron-center{
+ container{
+ h-jumbotron,paragraph-lead-text-muted 
+ p-btn{
+ btn-primary-my-2,btn-secondary-my-2 
+}
+}
+}

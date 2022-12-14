@@ -1,0 +1,23 @@
+container-marketing{
+ row{
+ col-lg-4{
+ svg-140px,h-2,paragraph 
+ p-btn{
+ btn-secondary 
+}
+}
+ col-lg-4{
+ svg-140px,h-2,paragraph 
+ p-btn{
+ btn-secondary 
+}
+}
+ col-lg-4{
+ svg-140px,h-2,paragraph 
+ p-btn{
+ btn-secondary 
+}
+}
+}
+}
+ featurette-divider 
