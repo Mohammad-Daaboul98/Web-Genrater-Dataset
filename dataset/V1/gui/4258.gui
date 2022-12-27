@@ -1,0 +1,72 @@
+header{
+ navbar-light{
+ navbar-brand 
+ navbar-toggler{
+ navbar-toggler-icon 
+}
+ navbar-collapse{
+ navbar-nav{
+ nav-item-active{
+ nav-link-undisabled 
+}
+ nav-item-unactive{
+ nav-link-undisabled 
+}
+ nav-item-unactive{
+ nav-link-disabled 
+}
+}
+ form-inline-light 
+}
+}
+}
+main-container{
+ container{
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}
+main-container{
+ container{
+ card-deck{
+ col-md-4{
+ svg-250px 
+ h-3 
+}
+ col-md-4{
+ svg-500px 
+ h-3 
+}
+ col-md-4{
+ svg-250px 
+ h-3 
+}
+}
+}
+}
+main-container{
+ container{
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}
+main-container{
+ container{
+ card-deck{
+ col-md-4{
+ svg-250px 
+ h-3 
+}
+ col-md-4{
+ svg-500px 
+ h-3 
+}
+ col-md-4{
+ svg-250px 
+ h-3 
+}
+}
+}
+}

@@ -1,0 +1,1 @@
+for /r %i in (*) do python ../../../web-compiler.py %i

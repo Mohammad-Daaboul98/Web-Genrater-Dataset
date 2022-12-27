@@ -1,0 +1,19 @@
+header{
+ container{
+ navbar-collapse-secondary{
+ h-4 
+ paragraph-lead 
+}
+}
+}
+main{
+ jumbotron-center{
+ container{
+ h-jumbotron 
+ paragraph-lead-text-muted 
+ p-btn{
+ btn-primary-my-2 
+}
+}
+}
+}

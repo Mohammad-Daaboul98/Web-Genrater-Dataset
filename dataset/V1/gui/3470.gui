@@ -1,0 +1,160 @@
+header{
+ navbar-primary{
+ container-fluid{
+ navbar-brand 
+ navbar-toggler{
+ navbar-toggler-icon 
+}
+ navbar-collapse{
+ navbar-nav{
+ nav-item{
+ nav-link-active 
+}
+ nav-item{
+ nav-link 
+}
+ nav-item{
+ nav-link-disabled 
+}
+}
+ form-secondary 
+}
+}
+}
+}
+main-container{
+ br 
+ card-deck{
+ col-md-4{
+ svg-250px 
+ h-3 
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+main-container{
+ card-deck{
+ col-md-4{
+ svg-250px 
+ h-3 
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-success 
+}
+}
+ col-md-4{
+ svg-250px 
+ h-3 
+}
+}
+ br 
+ card-deck{
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-success 
+}
+}
+ col-md-4{
+ svg-250px 
+ h-3 
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-success 
+}
+}
+}
+}
+main-container{
+ br 
+ card-deck{
+ col-md-4{
+ svg-250px 
+ h-3 
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+main-container{
+ card-deck{
+ col-md-4{
+ svg-250px 
+ h-3 
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-success 
+}
+}
+ col-md-4{
+ svg-250px 
+ h-3 
+}
+}
+ br 
+ card-deck{
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-success 
+}
+}
+ col-md-4{
+ svg-250px 
+ h-3 
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-success 
+}
+}
+}
+}

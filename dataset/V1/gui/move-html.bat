@@ -1,0 +1,1 @@
+for /r . %x in (*.html) do move "%x" ../html
