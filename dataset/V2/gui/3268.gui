@@ -1,0 +1,9 @@
+header {
+ container {
+ navbar-collapse-danger {
+ h-4 
+ paragraph-lead 
+}
+}
+}
+carousel-slide 

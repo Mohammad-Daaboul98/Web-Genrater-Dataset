@@ -1,0 +1,105 @@
+main-container {
+ container {
+ card-deck {
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ col-md-4 {
+ svg-500px 
+ h-3 
+}
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+}
+}
+}
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
+}
+}
+}
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+}
+}
+ featurette-divider 
+main-container {
+ br 
+ text-center {
+ row {
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+}
+ br 
+ row {
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+}
+ br 
+ row {
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+}
+ br 
+}
+}

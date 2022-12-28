@@ -1,0 +1,82 @@
+header {
+ container {
+ navbar-collapse-danger {
+ h-4 
+ paragraph-lead 
+}
+}
+}
+main-container {
+ container {
+ card-deck {
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+}
+carousel-slide 
+main-container {
+ container {
+ card-deck {
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+}
+carousel-slide 

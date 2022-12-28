@@ -1,0 +1,230 @@
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+}
+}
+ featurette-divider 
+main {
+ jumbotron {
+ container {
+ h-1 
+ paragraph 
+ btn-primary 
+}
+}
+ container {
+ text-center {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+ }
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}
+main-container {
+ text-center {
+ h-1 
+ paragraph-lead 
+}
+ container {
+ card-deck {
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ card-title 
+ list-unstyled {
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ card-title 
+ list-unstyled {
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ card-title 
+ list-unstyled {
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+}
+}
+}
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+}
+}
+ featurette-divider 
+main {
+ jumbotron {
+ container {
+ h-1 
+ paragraph 
+ btn-primary 
+}
+}
+ container {
+ text-center {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+ }
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}
+main-container {
+ text-center {
+ h-1 
+ paragraph-lead 
+}
+ container {
+ card-deck {
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ card-title 
+ list-unstyled {
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ card-title 
+ list-unstyled {
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ card-title 
+ list-unstyled {
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+}
+}
+}

@@ -1,0 +1,164 @@
+header {
+ container {
+ navbar-collapse-warning {
+ h-4 
+ paragraph-lead 
+}
+}
+}
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
+}
+}
+}
+container {
+ card-deck {
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-dark 
+}
+}
+ br 
+}
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
+}
+}
+}
+container {
+ card-deck {
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-dark 
+}
+}
+ br 
+}
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
+}
+}
+}
+container {
+ card-deck {
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-dark 
+}
+}
+ br 
+}

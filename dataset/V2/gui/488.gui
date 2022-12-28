@@ -1,0 +1,134 @@
+header {
+ d-flex {
+ h5-my-0 
+ nav-my-2 {
+ a-text-dark 
+ a-text-dark 
+ a-text-dark 
+ a-text-dark 
+}
+ btn-outline-primary 
+}
+}
+main-container {
+ container {
+ card-deck {
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+}
+container {
+ row {
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+main-container {
+ container {
+ card-deck {
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+}
+container {
+ row {
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}

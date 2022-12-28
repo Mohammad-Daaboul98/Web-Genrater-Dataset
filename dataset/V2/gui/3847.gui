@@ -1,0 +1,92 @@
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+}
+}
+ featurette-divider 
+section-jumbotron-text-center {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-dark 
+}
+}
+ br 
+}
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+}
+}
+ featurette-divider 
+section-jumbotron-text-center {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-dark 
+}
+}
+ br 
+}

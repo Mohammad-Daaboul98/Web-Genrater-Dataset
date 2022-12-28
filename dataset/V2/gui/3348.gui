@@ -1,0 +1,407 @@
+header {
+ container {
+ navbar-collapse-light {
+ h-4 
+ paragraph-lead 
+}
+}
+}
+main {
+ album-py-5-bg-light {
+ container {
+ row {
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+}
+}
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+ br 
+}
+container {
+ row {
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+main {
+ album-py-5-bg-light {
+ container {
+ row {
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+}
+}
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+ br 
+}
+container {
+ row {
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+main {
+ album-py-5-bg-light {
+ container {
+ row {
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow-sm {
+ svg-bd-placeholder-img-card-img-top 
+ card-body {
+ p-card-text 
+ d-flex-center {
+ btn-group {
+ btn-outline-secondary 
+ btn-outline-secondary 
+}
+ small-text-muted 
+}
+}
+}
+}
+}
+}
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+ br 
+}
+container {
+ row {
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}

@@ -1,0 +1,50 @@
+header {
+ container {
+ navbar-collapse-primary {
+ h-4 
+ paragraph-lead 
+}
+}
+}
+container-marketing {
+ row  {
+ col-md-7 {
+ h-featurette {
+ text-muted 
+}
+ paragraph-lead 
+}
+ col-md-5 {
+ svg-500px 
+}
+}
+}
+ featurette-divider 
+main-container {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}
+container-marketing {
+ row  {
+ col-md-7 {
+ h-featurette {
+ text-muted 
+}
+ paragraph-lead 
+}
+ col-md-5 {
+ svg-500px 
+}
+}
+}
+ featurette-divider 
+main-container {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}

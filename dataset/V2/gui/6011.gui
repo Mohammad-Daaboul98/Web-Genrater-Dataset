@@ -1,0 +1,30 @@
+header {
+ container {
+ navbar-collapse-danger {
+ h-4 
+ paragraph-lead 
+}
+}
+}
+carousel-slide 
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-dark 
+}
+}
+ br 
+}
+carousel-slide 
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-dark 
+}
+}
+ br 
+}

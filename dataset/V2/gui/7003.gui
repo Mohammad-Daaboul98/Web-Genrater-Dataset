@@ -1,0 +1,80 @@
+header {
+ navbar-primary {
+ container-fluid {
+ navbar-brand 
+ navbar-toggler {
+ navbar-toggler-icon 
+}
+ navbar-collapse {
+ navbar-nav {
+ nav-item {
+ nav-link-active 
+}
+ nav-item {
+ nav-link 
+}
+ nav-item {
+ nav-link-disabled 
+}
+}
+ form-secondary 
+}
+}
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+ br 
+}
+main-container {
+ container {
+ card-deck {
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ col-md-4 {
+ svg-500px 
+ h-3 
+}
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+}
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+ br 
+}
+main-container {
+ container {
+ card-deck {
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ col-md-4 {
+ svg-500px 
+ h-3 
+}
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+}
+}
+}

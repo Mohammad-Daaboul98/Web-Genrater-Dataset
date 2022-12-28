@@ -1,0 +1,55 @@
+main-container {
+ br 
+ card-deck {
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+}
+}
+ featurette-divider 
+main-container {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}

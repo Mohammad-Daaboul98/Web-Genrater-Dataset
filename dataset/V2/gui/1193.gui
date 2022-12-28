@@ -1,0 +1,103 @@
+main-container {
+ text-center {
+ container {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}
+container-marketing {
+ row {
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+ col-lg-4 {
+ svg-140px 
+ h-2 
+ paragraph 
+ p-btn {
+ btn-secondary 
+}
+}
+}
+}
+ featurette-divider 
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-dark 
+}
+}
+ br 
+}

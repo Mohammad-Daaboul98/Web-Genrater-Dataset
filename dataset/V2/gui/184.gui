@@ -1,0 +1,107 @@
+header {
+ container {
+ navbar-collapse-warning {
+ h-4 
+ paragraph-lead 
+}
+}
+}
+container {
+ row {
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+carousel-slide 
+main-container {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}
+container {
+ row {
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+carousel-slide 
+main-container {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}
+container {
+ row {
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+carousel-slide 
+main-container {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}

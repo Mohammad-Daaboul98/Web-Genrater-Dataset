@@ -136,5 +136,17 @@
     "navbar-collapse-danger": "<div class=\"fixed-top\"><div class=\"collapse\" id=\"navbarToggleExternalContent\"><div class=\"bg-danger p-4\">\n{}\n</div></div><nav class=\"navbar navbar-dark bg-danger\"><button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarToggleExternalContent\" aria-controls=\"navbarToggleExternalContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\"><span class=\"navbar-toggler-icon\"></span></button></nav></div>",
     "navbar-collapse-warning": "<div class=\"fixed-top\"><div class=\"collapse\" id=\"navbarToggleExternalContent\"><div class=\"bg-warning p-4\">\n{}\n</div></div><nav class=\"navbar navbar-dark bg-warning\"><button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarToggleExternalContent\" aria-controls=\"navbarToggleExternalContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\"><span class=\"navbar-toggler-icon\"></span></button></nav></div>",
     "navbar-collapse-secondary": "<div class=\"fixed-top\"><div class=\"collapse\" id=\"navbarToggleExternalContent\"><div class=\"bg-secondary p-4\">\n{}\n</div></div><nav class=\"navbar navbar-dark bg-secondary\"><button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarToggleExternalContent\" aria-controls=\"navbarToggleExternalContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\"><span class=\"navbar-toggler-icon\"></span></button></nav></div>",
-    "navbar-collapse-light": "<div class=\"fixed-top\"><div class=\"collapse\" id=\"navbarToggleExternalContent\"><div class=\"bg-light p-4\">\n{}\n</div></div><nav class=\"navbar navbar-dark bg-light\"><button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarToggleExternalContent\" aria-controls=\"navbarToggleExternalContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\"><span class=\"navbar-toggler-icon\"></span></button></nav></div>"
+    "navbar-collapse-light": "<div class=\"fixed-top\"><div class=\"collapse\" id=\"navbarToggleExternalContent\"><div class=\"bg-light p-4\">\n{}\n</div></div><nav class=\"navbar navbar-dark bg-light\"><button class=\"navbar-toggler\" type=\"button\" data-toggle=\"collapse\" data-target=\"#navbarToggleExternalContent\" aria-controls=\"navbarToggleExternalContent\" aria-expanded=\"false\" aria-label=\"Toggle navigation\"><span class=\"navbar-toggler-icon\"></span></button></nav></div>",
+
+    "collapse-bg-primary":"<div class=\"collapse bg-primary \" id=\"navbarHeader\">\n{}\n</div>\n",
+    "collapse-bg-secondary":"<div class=\"collapse bg-secondary\" id=\"navbarHeader\">\n{}\n</div>\n",
+    "collapse-bg-success":"<div class=\"collapse bg-success\" id=\"navbarHeader\">\n{}\n</div>\n",
+    "collapse-bg-danger":"<div class=\"collapse bg-danger\" id=\"navbarHeader\">\n{}\n</div>\n",
+    "collapse-bg-info":"<div class=\"collapse bg-info\" id=\"navbarHeader\">\n{}\n</div>\n",
+    "paragraph-lead-light":"<p class=\"lead\" style=\"color:#fff\">[][][][][][]\n[][][][][][]\n[][][][][][]</p>\n",
+    "navbar-dark-bg-primary-shadow":"<div class=\"navbar navbar-dark  bg-primary shadow\">\n{}\n</div>\n",
+    "navbar-dark-bg-secondary-shadow":"<div class=\"navbar navbar-dark bg-secondary shadow\">\n{}\n</div>\n",
+    "navbar-dark-bg-success-shadow":"<div class=\"navbar navbar-dark bg-success shadow\">\n{}\n</div>\n",
+    "navbar-dark-bg-danger-shadow":"<div class=\"navbar navbar-dark bg-danger shadow\">\n{}\n</div>\n",
+    "navbar-dark-bg-info-shadow":"<div class=\"navbar navbar-dark bg-info shadow\">\n{}\n</div>\n"  
     }

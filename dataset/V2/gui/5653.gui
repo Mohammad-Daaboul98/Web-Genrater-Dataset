@@ -1,0 +1,19 @@
+header {
+ d-flex {
+ h5-my-0 
+ nav-my-2 {
+ a-text-dark 
+ a-text-dark 
+ a-text-dark 
+ a-text-dark 
+}
+ btn-success 
+}
+}
+section-jumbotron-text-center {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}

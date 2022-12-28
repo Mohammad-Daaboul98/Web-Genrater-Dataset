@@ -1,0 +1,32 @@
+header {
+ navbar-dark {
+ container-fluid {
+ navbar-brand 
+ navbar-toggler {
+ navbar-toggler-icon 
+}
+ navbar-collapse {
+ navbar-nav {
+ nav-item {
+ nav-link-active 
+}
+ nav-item {
+ nav-link 
+}
+ nav-item {
+ nav-link-disabled 
+}
+}
+ form-inline-success 
+}
+}
+}
+}
+jumbotron-center {
+ container {
+ h-jumbotron, paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2, btn-secondary-my-2 
+}
+}
+}

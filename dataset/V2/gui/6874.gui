@@ -1,0 +1,63 @@
+header {
+ container {
+ navbar-collapse-warning {
+ h-4 
+ paragraph-lead 
+}
+}
+}
+main-container {
+ text-center {
+ h-1 
+ paragraph-lead 
+}
+ container {
+ card-deck {
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ card-title 
+ list-unstyled {
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ card-title 
+ list-unstyled {
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ card-title 
+ list-unstyled {
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+}
+}
+}

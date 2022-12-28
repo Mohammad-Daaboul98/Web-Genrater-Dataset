@@ -1,0 +1,290 @@
+header {
+ container {
+ navbar-collapse-dark {
+ h-4 
+ paragraph-lead 
+}
+}
+}
+main-container {
+ text-center {
+ container {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}
+section-jumbotron-text-center {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+main-container {
+ br 
+ card-deck {
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-primary 
+}
+}
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+}
+}
+main-container {
+ text-center {
+ container {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}
+section-jumbotron-text-center {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+main-container {
+ br 
+ card-deck {
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-primary 
+}
+}
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+}
+}
+main-container {
+ text-center {
+ container {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}
+section-jumbotron-text-center {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+main-container {
+ br 
+ card-deck {
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+ card {
+ card-header {
+ h-4 
+}
+ card-body {
+ svg-140px 
+ paragraph-lead 
+ btn-primary 
+}
+}
+ col-md-4 {
+ svg-250px 
+ h-3 
+}
+}
+}

@@ -1,0 +1,134 @@
+header {
+ container {
+ navbar-collapse-light {
+ h-4 
+ paragraph-lead 
+}
+}
+}
+main-container {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}
+container {
+ row {
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-dark 
+}
+}
+ br 
+}
+main-container {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}
+container {
+ row {
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-dark 
+}
+}
+ br 
+}
+main-container {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}
+container {
+ row {
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+ }
+ }
+ col-md-4 {
+ text-center {
+ h-2 
+ paragraph 
+ btn-danger 
+}
+}
+}
+}
+main-container {
+ container {
+ text-center {
+ h-1 
+ paragraph-lead 
+ btn-dark 
+}
+}
+ br 
+}

@@ -1,0 +1,121 @@
+album-py-5-bg-light {
+ container {
+ row {
+ col-md-4 {
+ card-mb-4-shadow {
+ card-img-top 
+ card-body {
+ paragraph-card-text 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm 
+ btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow {
+ card-img-top 
+ card-body {
+ paragraph-card-text 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm 
+ btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow {
+ card-img-top 
+ card-body {
+ paragraph-card-text 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm 
+ btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow {
+ card-img-top 
+ card-body {
+ paragraph-card-text 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm 
+ btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow {
+ card-img-top 
+ card-body {
+ paragraph-card-text 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm 
+ btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+ col-md-4 {
+ card-mb-4-shadow {
+ card-img-top 
+ card-body {
+ paragraph-card-text 
+ d-flex-justify-content-between {
+ btn-group {
+ btn-outline-secondary-sm 
+ btn-outline-secondary-sm 
+}
+}
+}
+}
+}
+}
+}
+}
+main {
+ jumbotron {
+ container {
+ h-1 
+ paragraph 
+ btn-primary 
+}
+}
+ container {
+ text-center {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+ }
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}

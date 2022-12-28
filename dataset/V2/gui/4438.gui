@@ -1,0 +1,169 @@
+header {
+ navbar-primary {
+ navbar-brand 
+ navbar-toggler {
+ navbar-toggler-icon 
+}
+ navbar-collapse {
+ navbar-nav {
+ nav-item-active {
+ nav-link-undisabled 
+}
+ nav-item-unactive {
+ nav-link-undisabled 
+}
+ nav-item-unactive {
+ nav-link-disabled 
+}
+}
+ form-inline-light 
+}
+}
+}
+main {
+ jumbotron-center {
+ container {
+ h-jumbotron 
+ paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2 
+}
+}
+}
+}
+main-container {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}
+main {
+ jumbotron {
+ container {
+ h-1 
+ paragraph 
+ btn-primary 
+}
+}
+ container {
+ text-center {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+ }
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}
+main {
+ jumbotron-center {
+ container {
+ h-jumbotron 
+ paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2 
+}
+}
+}
+}
+main-container {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}
+main {
+ jumbotron {
+ container {
+ h-1 
+ paragraph 
+ btn-primary 
+}
+}
+ container {
+ text-center {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+ }
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}
+main {
+ jumbotron-center {
+ container {
+ h-jumbotron 
+ paragraph-lead-text-muted 
+ p-btn {
+ btn-primary-my-2 
+}
+}
+}
+}
+main-container {
+ container {
+ h-1 
+ paragraph-lead 
+ btn-primary 
+}
+}
+main {
+ jumbotron {
+ container {
+ h-1 
+ paragraph 
+ btn-primary 
+}
+}
+ container {
+ text-center {
+ row {
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+ }
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4 {
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}
