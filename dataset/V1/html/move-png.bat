@@ -1,1 +1,0 @@
-for /r . %x in (*.png) do move "%x" ../png

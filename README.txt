@@ -6,3 +6,12 @@ for /r . %x in (*.html) do move "%x" ../html
 
 Move PNG:
 for /r . %x in (*.png) do move "%x" ../png
+
+
+
+
+
+
+
+Resource:
+https://github.com/VaibhavYadav/pytorch_pix2code
