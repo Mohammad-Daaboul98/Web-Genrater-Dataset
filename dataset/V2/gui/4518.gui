@@ -1,9 +1,0 @@
-header {
- container {
- navbar-collapse-light {
- h-4 
- paragraph-lead 
-}
-}
-}
-carousel-slide 

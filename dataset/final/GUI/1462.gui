@@ -1,0 +1,656 @@
+header {
+navbar-success {
+container-fluid {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item {
+nav-link-active
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+}
+form-dark
+}
+}
+}
+}
+main {
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+}
+}
+}
+}
+main {
+carousel-slide
+album-py-5-bg-light {
+container {
+row {
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+}
+}
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+}
+}
+}
+main {
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+}
+}
+}
+}
+main {
+carousel-slide
+album-py-5-bg-light {
+container {
+row {
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+}
+}
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+}
+}
+}
+main {
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+}
+}
+}
+}
+main {
+carousel-slide
+album-py-5-bg-light {
+container {
+row {
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+}
+}
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+}
+}
+}
+main {
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+}
+}
+}
+}
+main {
+carousel-slide
+album-py-5-bg-light {
+container {
+row {
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+}
+}
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+}
+}
+}

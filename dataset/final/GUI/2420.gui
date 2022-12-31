@@ -1,0 +1,248 @@
+header {
+container {
+navbar-collapse-success {
+h-4
+paragraph-lead
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+}

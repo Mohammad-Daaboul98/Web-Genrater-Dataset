@@ -1,0 +1,24 @@
+header {
+container {
+navbar-collapse-primary {
+h-4
+paragraph-lead
+}
+}
+}
+carousel-slide
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+carousel-slide
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}

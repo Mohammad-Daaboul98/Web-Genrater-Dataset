@@ -1,0 +1,94 @@
+header {
+navbar-primary {
+container-fluid {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item {
+nav-link-active
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+}
+form-secondary
+}
+}
+}
+}
+container {
+row {
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}
+container {
+row {
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}

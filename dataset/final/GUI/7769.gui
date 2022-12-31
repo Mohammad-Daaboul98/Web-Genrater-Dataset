@@ -1,0 +1,548 @@
+header {
+container {
+navbar-collapse-dark {
+h-4
+paragraph-lead
+}
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+text-center {
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+}
+container {
+row {
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+text-center {
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+}
+container {
+row {
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+text-center {
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+}
+container {
+row {
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+text-center {
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+}
+container {
+row {
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+}
+}

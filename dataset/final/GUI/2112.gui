@@ -1,0 +1,78 @@
+header {
+container {
+navbar-collapse-light {
+h-4
+paragraph-lead
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+container {
+row {
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+container {
+row {
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+}
+}

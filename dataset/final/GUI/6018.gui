@@ -1,0 +1,392 @@
+main {
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+}
+}
+}
+}
+main {
+album-py-5-bg-light {
+container {
+row {
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-outline-secondary
+btn-outline-secondary
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-outline-secondary
+btn-outline-secondary
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-outline-secondary
+btn-outline-secondary
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-outline-secondary
+btn-outline-secondary
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-outline-secondary
+btn-outline-secondary
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-outline-secondary
+btn-outline-secondary
+}
+small-text-muted
+}
+}
+}
+}
+}
+}
+}
+}
+main-container {
+text-center {
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+br
+card-deck {
+col-md-4 {
+svg-250px
+h-3
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-primary
+}
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+}
+main {
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+}
+}
+}
+}
+main {
+album-py-5-bg-light {
+container {
+row {
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-outline-secondary
+btn-outline-secondary
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-outline-secondary
+btn-outline-secondary
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-outline-secondary
+btn-outline-secondary
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-outline-secondary
+btn-outline-secondary
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-outline-secondary
+btn-outline-secondary
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-outline-secondary
+btn-outline-secondary
+}
+small-text-muted
+}
+}
+}
+}
+}
+}
+}
+}
+main-container {
+text-center {
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+br
+card-deck {
+col-md-4 {
+svg-250px
+h-3
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-primary
+}
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+}

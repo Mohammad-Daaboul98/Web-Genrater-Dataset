@@ -1,0 +1,15 @@
+header {
+container {
+navbar-collapse-danger {
+h-4
+paragraph-lead
+}
+}
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}

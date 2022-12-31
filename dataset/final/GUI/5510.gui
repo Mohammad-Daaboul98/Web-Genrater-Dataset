@@ -1,0 +1,177 @@
+header {
+navbar-primary {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item-active {
+nav-link
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+nav-item-dropdown {
+nav-link-dropdown-toggle
+dropdown-menu {
+dropdown-item
+dropdown-item
+dropdown-item
+}
+}
+}
+form-secondary
+}
+}
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+}
+}
+featurette-divider
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+}
+}
+featurette-divider
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+}
+}
+featurette-divider
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}

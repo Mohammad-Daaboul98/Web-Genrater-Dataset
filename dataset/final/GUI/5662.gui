@@ -1,0 +1,58 @@
+header {
+navbar-dark {
+container-fluid {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item {
+nav-link-active
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+}
+form-inline-success
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}

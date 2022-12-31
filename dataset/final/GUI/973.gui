@@ -1,0 +1,80 @@
+header {
+container {
+navbar-collapse-light {
+h-4
+paragraph-lead
+}
+}
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+}
+}
+featurette-divider
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+}
+}
+featurette-divider

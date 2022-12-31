@@ -1,0 +1,86 @@
+header {
+container {
+navbar-collapse-light {
+h-4
+paragraph-lead
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+}
+}
+featurette-divider
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+}
+}
+featurette-divider

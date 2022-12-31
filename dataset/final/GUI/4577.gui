@@ -1,0 +1,108 @@
+header {
+container {
+navbar-collapse-light {
+h-4
+paragraph-lead
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+carousel-slide
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+carousel-slide
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+carousel-slide
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+carousel-slide

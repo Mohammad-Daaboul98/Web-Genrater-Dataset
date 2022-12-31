@@ -1,0 +1,53 @@
+header {
+navbar-danger {
+container-fluid {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item {
+nav-link-active
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+}
+form-inline-dark
+}
+}
+}
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+}
+}
+featurette-divider

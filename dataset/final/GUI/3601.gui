@@ -1,0 +1,392 @@
+header {
+container {
+navbar-collapse-light {
+h-4
+paragraph-lead
+}
+}
+}
+main-container {
+text-center {
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+container {
+card-deck {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-500px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+}
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+main-container {
+text-center {
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+container {
+card-deck {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-500px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+}
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+main-container {
+text-center {
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+container {
+card-deck {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-500px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+}
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+main-container {
+text-center {
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+container {
+card-deck {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-500px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+}
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}

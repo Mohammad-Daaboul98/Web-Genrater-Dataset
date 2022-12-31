@@ -1,0 +1,78 @@
+header {
+container {
+navbar-collapse-primary {
+h-4
+paragraph-lead
+}
+}
+}
+carousel-slide
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+carousel-slide
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}

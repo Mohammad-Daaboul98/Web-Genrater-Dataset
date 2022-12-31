@@ -1,0 +1,77 @@
+header {
+navbar-dark {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item-active {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-disabled
+}
+}
+form-inline-light
+}
+}
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+}
+}
+}

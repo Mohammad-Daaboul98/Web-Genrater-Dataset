@@ -1,0 +1,36 @@
+header {
+container {
+navbar-collapse-primary {
+h-4
+paragraph-lead
+}
+}
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+main-container {
+container {
+h-1
+paragraph-lead
+btn-primary
+}
+}
+section-jumbotron-text-center {
+container {
+h-1
+paragraph-lead
+btn-warning
+}
+}

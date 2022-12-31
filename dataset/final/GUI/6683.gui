@@ -1,0 +1,472 @@
+header {
+d-flex {
+h5-my-0
+nav-my-2 {
+a-text-dark
+a-text-dark
+a-text-dark
+a-text-dark
+}
+btn-success
+}
+}
+main-container {
+br
+card-deck {
+col-md-4 {
+svg-250px
+h-3
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+main {
+jumbotron {
+container {
+h-1
+paragraph
+btn-primary
+}
+}
+container {
+text-center {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+}
+}
+}
+main-container {
+br
+card-deck {
+col-md-4 {
+svg-250px
+h-3
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+main {
+jumbotron {
+container {
+h-1
+paragraph
+btn-primary
+}
+}
+container {
+text-center {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+}
+}
+}
+main-container {
+br
+card-deck {
+col-md-4 {
+svg-250px
+h-3
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+main {
+jumbotron {
+container {
+h-1
+paragraph
+btn-primary
+}
+}
+container {
+text-center {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+}
+}
+}
+main-container {
+br
+card-deck {
+col-md-4 {
+svg-250px
+h-3
+}
+card {
+card-header {
+h-4
+}
+card-body {
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
+main {
+jumbotron {
+container {
+h-1
+paragraph
+btn-primary
+}
+}
+container {
+text-center {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+}
+}
+}

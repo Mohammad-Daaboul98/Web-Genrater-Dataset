@@ -1,0 +1,290 @@
+header {
+container {
+navbar-collapse-danger {
+h-4
+paragraph-lead
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+}
+}
+featurette-divider
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+}
+}
+featurette-divider
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-dark
+}
+}
+br
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-secondary
+}
+}
+}
+}
+featurette-divider
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+}
+}
+}
