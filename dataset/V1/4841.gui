@@ -1,0 +1,250 @@
+header{
+ d-flex{
+ h5-my-0 
+ nav-my-2{
+ a-text-dark 
+ a-text-dark 
+ a-text-dark 
+ a-text-dark 
+}
+ btn-outline-primary 
+}
+}
+main-container{
+ text-center{
+ h-1 
+ paragraph-lead 
+}
+ container{
+ card-deck{
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ card-title 
+ list-unstyled{
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ card-title 
+ list-unstyled{
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ card-title 
+ list-unstyled{
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+}
+}
+}
+main-container{
+ text-center{
+ container{
+ row{
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container{
+ row{
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container{
+ row{
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}
+main-container{
+ text-center{
+ h-1 
+ paragraph-lead 
+}
+ container{
+ card-deck{
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ card-title 
+ list-unstyled{
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ card-title 
+ list-unstyled{
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ card-title 
+ list-unstyled{
+ li 
+ li 
+ li 
+ li 
+}
+ btn-primary 
+}
+}
+}
+}
+}
+main-container{
+ text-center{
+ container{
+ row{
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container{
+ row{
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container{
+ row{
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}

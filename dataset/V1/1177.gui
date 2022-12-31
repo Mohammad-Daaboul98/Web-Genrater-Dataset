@@ -1,0 +1,110 @@
+main-container{
+ container{
+ text-center{
+ h-1 
+ paragraph-lead 
+ btn-warning 
+}
+}
+ br 
+}
+main-container{
+ container{
+ card-deck{
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+ card{
+ card-header{
+ h-4 
+}
+ card-body{
+ svg-140px 
+ paragraph-lead 
+ btn-danger 
+}
+}
+}
+}
+}
+main-container{
+ text-center{
+ container{
+ row{
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container{
+ row{
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+ container{
+ row{
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+ col-md-4{
+ h-2 
+ paragraph 
+ btn-secondary 
+}
+}
+ hr 
+}
+}
+}

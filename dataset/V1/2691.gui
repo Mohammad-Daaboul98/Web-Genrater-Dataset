@@ -1,0 +1,18 @@
+header{
+ container{
+ navbar-collapse-warning{
+ h-4 
+ paragraph-lead 
+}
+}
+}
+main-container{
+ container{
+ text-center{
+ h-1 
+ paragraph-lead 
+ btn-dark 
+}
+}
+ br 
+}

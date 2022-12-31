@@ -1,20 +1,19 @@
-import time
 import os
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 
 options = webdriver.ChromeOptions()
 options.headless = True
 driver = webdriver.Chrome(options=options)
 
-path = r"C:/Users/basel/Desktop/Senior Project/master/dataset/html"
-photo_path = r"C:/Users/basel/Desktop/Senior Project/master/dataset/"
+path = "C:\\Users\\basel\\Desktop\\Senior Project\\master\\dataset\\V2\\html"
+photo_path = "C:/Users/basel/Desktop/Senior Project/master/dataset/V2/html/"
 directory = os.fsencode(path)
 test = []
 for file in os.listdir(directory):
     filename = os.fsdecode(file)
-    test.append(filename)
+    if filename.endswith('.html'):
+        test.append(filename)
 
 for i in test:
     driver.get(photo_path+i)
