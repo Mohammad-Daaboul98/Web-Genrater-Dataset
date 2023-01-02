@@ -1,0 +1,142 @@
+header {
+navbar-warning {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item-active {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-disabled
+}
+}
+form-inline-light
+}
+}
+}
+main-container {
+br
+text-center {
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+br
+text-center {
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}

@@ -1,0 +1,278 @@
+header {
+container {
+navbar-collapse-warning {
+h-4
+paragraph-lead
+}
+}
+}
+container {
+row {
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+}
+}
+}
+container {
+row {
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+}
+}
+}
+container {
+row {
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+col-md-4 {
+text-center {
+h-2
+paragraph
+btn-danger
+}
+}
+}
+}
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+btn-secondary-my-2
+}
+}
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-primary
+}
+}
+}
+}
+}

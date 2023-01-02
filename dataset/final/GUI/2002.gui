@@ -1,0 +1,226 @@
+main-container {
+text-center {
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+container {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-success
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-success
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-success
+}
+}
+}
+}
+hr
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-danger
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-danger
+}
+}
+}
+}
+}
+main {
+carousel-slide
+album-py-5-bg-light {
+container {
+row {
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+col-md-4 {
+card-mb-4-shadow-sm {
+svg-bd-placeholder-img-card-img-top
+card-body {
+p-card-text
+d-flex-center {
+btn-group {
+btn-danger
+btn-success
+}
+small-text-muted
+}
+}
+}
+}
+}
+}
+}
+container-marketing {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph
+p-btn {
+btn-outline-dark
+}
+}
+}
+}
+}

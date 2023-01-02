@@ -1,0 +1,106 @@
+header {
+navbar-warning {
+container-fluid {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item {
+nav-link-active
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+}
+form-inline-dark
+}
+}
+}
+}
+main {
+jumbotron {
+container {
+h-1
+paragraph
+btn-primary
+}
+}
+container {
+text-center {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}
+main {
+jumbotron {
+container {
+h-1
+paragraph
+btn-primary
+}
+}
+container {
+text-center {
+row {
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+col-md-4 {
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
+main-container {
+container {
+text-center {
+h-1
+paragraph-lead
+btn-warning
+}
+}
+br
+}

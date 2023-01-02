@@ -1,0 +1,360 @@
+header {
+d-flex {
+h5-my-0
+nav-my-2 {
+a-text-dark
+a-text-dark
+a-text-dark
+a-text-dark
+}
+btn-success
+}
+}
+main {
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+}
+}
+}
+}
+main-container {
+br
+text-center {
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+}
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+}
+}
+}
+main {
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+}
+}
+}
+}
+main-container {
+br
+text-center {
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+}
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+}
+}
+}
+main {
+jumbotron-center {
+container {
+h-jumbotron
+paragraph-lead-text-muted
+p-btn {
+btn-primary-my-2
+}
+}
+}
+}
+main-container {
+br
+text-center {
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+row {
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+col-md-4 {
+svg-250px
+h-3
+}
+}
+br
+}
+}
+main-container {
+text-center {
+h-1
+paragraph-lead
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li
+li
+li
+li
+}
+btn-outline-primary
+}
+}
+}
+}
+}
