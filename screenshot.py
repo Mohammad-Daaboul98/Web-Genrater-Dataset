@@ -6,8 +6,8 @@ options = webdriver.ChromeOptions()
 options.headless = True
 driver = webdriver.Chrome(options=options)
 
-path = "C:\\Users\\basel\\Desktop\\Senior Project\\master\\dataset\\V2\\html"
-photo_path = "C:/Users/basel/Desktop/Senior Project/master/dataset/V2/html/"
+path = "C:\\Users\\basel\\Desktop\\Senior Project\\master\\dataset\\full_dataset\\HTML"
+photo_path = "C:/Users/basel/Desktop/Senior Project/master/dataset/full_dataset/HTML/"
 directory = os.fsencode(path)
 test = []
 for file in os.listdir(directory):

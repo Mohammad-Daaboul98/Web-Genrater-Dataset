@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python.
 from __future__ import print_function
 __author__ = 'Tony Beltramelli - www.tonybeltramelli.com'
 
@@ -21,7 +21,7 @@ if __name__ == "__main__":
 FILL_WITH_RANDOM_TEXT = True
 TEXT_PLACE_HOLDER = "[]"
 
-# dsl_path = "assets/web-token.json"
+# dsl_path = "assets/web-token.json".
 dsl_path = "../../../assets/web-token.json"
 compiler = Compiler(dsl_path)
 

@@ -9,7 +9,7 @@ input_path = './dataset/unprocessed/'
 output_path = './dataset/'
 eval_split_percent = 0.10
 
-# List of every datapoint filename
+# List of every datapoint filename.
 paths = []
 for f in os.listdir(input_path):
     if f.find('.gui') != -1:
@@ -17,7 +17,7 @@ for f in os.listdir(input_path):
         if os.path.isfile('{}/{}.png'.format(input_path, file_name)):
             paths.append(file_name)
 
-# Split the data in training and evaluation set
+# Split the data in training and evaluation set.
 eval_sample_number = int(len(paths) * eval_split_percent)
 np.random.shuffle(paths)
 eval_set = paths[:eval_sample_number]
