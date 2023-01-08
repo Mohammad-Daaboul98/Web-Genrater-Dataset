@@ -1,0 +1,14 @@
+main{
+container{
+text-center{
+row{
+col-md-4{
+h-2
+paragraph
+btn-secondary
+}
+}
+hr
+}
+}
+}
