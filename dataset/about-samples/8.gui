@@ -1,0 +1,14 @@
+container{
+card-deck{
+card{
+card-header{
+h-4
+}
+card-body{
+svg-140px
+paragraph-lead
+btn-danger
+}
+}
+}
+}
