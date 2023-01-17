@@ -1,0 +1,13 @@
+form{
+form-row{
+col-7{
+input-text-form-control
+}
+col{
+input-text-form-control
+}
+col{
+input-text-form-control
+}
+}
+}

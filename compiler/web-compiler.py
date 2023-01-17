@@ -21,7 +21,7 @@ if __name__ == "__main__":
 FILL_WITH_RANDOM_TEXT = True
 TEXT_PLACE_HOLDER = "[]"
 
-dsl_path = "assets/web-token.json"
+dsl_path = "../../assets/web-token.json"
 # dsl_path = "../../../assets/web-token.json"
 compiler = Compiler(dsl_path)
 

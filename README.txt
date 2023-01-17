@@ -8,7 +8,7 @@ Move PNG:
 for /r . %x in (*.png) do move "%x" ../png
 
 
-
+Try without /r
 
 
 

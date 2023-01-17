@@ -1,0 +1,12 @@
+container{
+card-deck{
+col-md-4{
+svg-500px
+h-3
+}
+col-md-4{
+svg-500px
+h-3
+}
+}
+}

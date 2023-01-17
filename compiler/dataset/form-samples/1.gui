@@ -1,0 +1,17 @@
+form{
+form-group{
+label-email
+input-email-form-control
+}
+form-group{
+label-password
+input-password-form-control
+}
+form-group{
+form-check{
+input-checkbox-form-check
+form-check-label
+}
+}
+btn-primary
+}
