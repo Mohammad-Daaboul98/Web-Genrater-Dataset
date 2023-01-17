@@ -21,7 +21,9 @@ if __name__ == "__main__":
 FILL_WITH_RANDOM_TEXT = True
 TEXT_PLACE_HOLDER = "[]"
 
-dsl_path = "../../assets/web-token.json"
+dsl_path = "../../compiler/assets/web-token.json"
+# dsl_path = "assets/web-token.json"
+# dsl_path = "../../assets/web-token.json"
 # dsl_path = "../../../assets/web-token.json"
 compiler = Compiler(dsl_path)
 
@@ -52,6 +54,8 @@ def render_content_with_text(key, value):
         elif key.find("text-muted") != -1:
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0))
         elif key.find("label") != -1:
+            value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0))
+        elif key.find("strong") != -1:
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0))
         elif key.find("select") != -1:
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=1, space_number=0))
