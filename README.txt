@@ -4,12 +4,11 @@ for /r %x in (*.gui) do python ../../../web-compiler.py %x
 for %x in (*.gui) do python ../../compiler/web-compiler.py %x
 
 
-Move HTML:
+Move & Delete Files:
 for /r . %x in (*.html) do move "%x" ../html
 
+for /r . %x in (*.html) do del "%x"
 
-Move PNG:
-for /r . %x in (*.png) do move "%x" ../png
 
 
 

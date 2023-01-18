@@ -1,3 +1,4 @@
+container{
 form-inline{
 label-my-1-mr-2
 custom-select-my-1-mr-sm-2
@@ -6,4 +7,5 @@ input-checkbox-custom-control
 label-custom-control
 }
 btn-primary-my-1
+}
 }

@@ -1,3 +1,4 @@
+container{
 form{
 form-row-align-items-center{
 col-auto{
@@ -23,6 +24,7 @@ form-check-label
 }
 col-auto{
 btn-primary-mb-2
+}
 }
 }
 }

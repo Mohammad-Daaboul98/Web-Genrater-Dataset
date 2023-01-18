@@ -1,4 +1,5 @@
 container-marketing{
+container{
 row{
 col-lg-4{
 svg-140px
@@ -22,6 +23,7 @@ h-2
 paragraph
 p-btn{
 btn-success
+}
 }
 }
 }

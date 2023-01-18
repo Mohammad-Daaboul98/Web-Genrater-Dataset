@@ -1,3 +1,4 @@
+container{
 card-deck{
 col-md-4{
 svg-250px
@@ -16,5 +17,6 @@ btn-primary
 col-md-4{
 svg-250px
 h-3
+}
 }
 }

@@ -1,3 +1,4 @@
+container{
 form{
 form-group{
 label-email
@@ -14,4 +15,5 @@ form-check-label
 }
 }
 btn-primary
+}
 }

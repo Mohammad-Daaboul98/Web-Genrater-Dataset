@@ -1,3 +1,4 @@
+container{
 form{
 form-group{
 label-email
@@ -14,5 +15,6 @@ select5-form-control
 form-group{
 label
 textarea-form-control
+}
 }
 }

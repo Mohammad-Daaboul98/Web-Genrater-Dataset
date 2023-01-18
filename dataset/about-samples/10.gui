@@ -1,3 +1,4 @@
+container{
 card-deck{
 card{
 card-header{
@@ -21,6 +22,7 @@ card-body{
 svg-140px
 paragraph-lead
 btn-success
+}
 }
 }
 }

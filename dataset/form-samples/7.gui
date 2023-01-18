@@ -1,3 +1,4 @@
+container{
 form{
 form-group-row{
 col-sm-2-col-form-label-email
@@ -44,6 +45,7 @@ form-check-label
 form-group-row{
 col-sm-10{
 btn-primary   
+}
 }
 }
 }

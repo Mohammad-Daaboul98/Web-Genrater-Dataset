@@ -1,3 +1,4 @@
+container{
 card-deck{
 col-md-4{
 svg-250px,h-3
@@ -10,6 +11,7 @@ card-body{
 svg-140px
 paragraph-lead
 btn-danger
+}
 }
 }
 }
