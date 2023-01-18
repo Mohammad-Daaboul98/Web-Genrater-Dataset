@@ -24,7 +24,6 @@ landing = [
     "carousel-slide\nalbum-py-5-bg-light{\ncontainer{\nrow{\ncol-md-4{\ncard-mb-4-shadow-sm{\nsvg-bd-placeholder-img-card-img-top\ncard-body{\np-card-text\nd-flex-center{\nbtn-group{\nbtn-danger\nbtn-success\n}\nsmall-text-muted\n}\n}\n}\n}\ncol-md-4{\ncard-mb-4-shadow-sm{\nsvg-bd-placeholder-img-card-img-top\ncard-body{\np-card-text\nd-flex-center{\nbtn-group{\nbtn-danger\nbtn-success\n}\nsmall-text-muted\n}\n}\n}\n}\ncol-md-4{\ncard-mb-4-shadow-sm{\nsvg-bd-placeholder-img-card-img-top\ncard-body{\np-card-text\nd-flex-center{\nbtn-group{\nbtn-danger\nbtn-success\n}\nsmall-text-muted\n}\n}\n}\n}\n}\n}\n}",
     "section-py-5{\ncontainer-px-5-my-5{\nrow-gx-5-justify-content-center{\ncol-lg-6{\ntext-center-mb-5{\nh1-fw-bolder\nparagraph\n}\n}\n}\nrow-gx-5{\ncol-12{\nimg-fluid-rounded-3-mb-5\n}\ncol-lg-6{\nimg-fluid-rounded-3-mb-5\n}\ncol-lg-6{\nimg-fluid-rounded-3-mb-5\n}\n}\nrow-gx-5-justify-content-center{\ncol-lg-6{\ntext-center-mb-5{\nparagraph\ntext-decoration-none\n}\n}\n}\n}\n}",
     "section-py-5{\ncontainer-px-5-my-5{\ntext-center-mb-5{\nh1-fw-bolder\nparagraph\n}\nrow-gx-5{\ncol-lg-6{\nposition-relative-mb-5{\nimg-fluid-rounded-3-mb-3\nh3-fw-bolder-text-decoration-none-link-dark-stretched-link\n}\n}\ncol-lg-6{\nposition-relative-mb-5{\nimg-fluid-rounded-3-mb-3\nh3-fw-bolder-text-decoration-none-link-dark-stretched-link\n}\n}\ncol-lg-6{\nposition-relative-mb-5-mb-lg-0{\nimg-fluid-rounded-3-mb-3\nh3-fw-bolder-text-decoration-none-link-dark-stretched-link\n}\n}\ncol-lg-6{\nposition-relative{\nimg-fluid-rounded-3-mb-3\nh3-fw-bolder-text-decoration-none-link-dark-stretched-link\n}\n}\n}\n}\n}\nsection-py-5-bg-light{\ncontainer-px-5-my-5{\nh2-display-4-fw-bolder-mb-4\nbtn-btn-lg-btn-primary\n}\n}"
-
 ]
 
 about = [
@@ -44,6 +43,7 @@ about = [
 ]
 
 contact = [
+    "d-flex-flex-column{\nflex-shrink-0{\nsection-py-5{\ncontainer-px-5{\nbg-light-rounded-3-py-5-px-4-px-md-5-mb-5{\ntext-center-mb-5{\nfw-bolder{\nh-1\n}\nrow-gx-5-justify-content-center{\ncol-lg-8-col-xl-6{\nform{\nform-row{\nlabel\ninput-text-form-control\n}\nbr\nform-row{\nlabel-email\ninput-email-form-control\n}\nbr\nform-row{\nlabel-phone\ninput-phone-form-control\n}\nbr\nform-row{\nlabel\ntextarea-form-control\n}\n}\n}\n}\n}\n}\n}\n}\n}\n}",
     "container{\naside\n}"
 ]
 
