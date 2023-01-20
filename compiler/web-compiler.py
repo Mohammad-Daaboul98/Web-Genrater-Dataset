@@ -35,8 +35,7 @@ def render_content_with_text(key, value):
         elif key.find("title") != -1:
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0))
         elif key.find("text") != -1:
-            value = value.replace(TEXT_PLACE_HOLDER,
-                                  Utils.get_random_text(length_text=5, space_number=0, with_upper_case=False))
+            value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0, with_upper_case=False))
         elif key.find("navbar-brand") != -1:
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text())
         elif key.find("nav") != -1:
@@ -45,8 +44,16 @@ def render_content_with_text(key, value):
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0))
         elif key.find("h") != -1:
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0))
+        elif key.find("a") != -1:
+            value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0))
+        elif key.find("p") != -1:
+            value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=50, space_number=0))
         elif key.find("paragraph") != -1:
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0))
+        elif key.find("paragraph-lead") != -1:
+            value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=15, space_number=0))
+        elif key.find("pb-2") != -1:
+            value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=50, space_number=0))
         elif key.find("btn-secondary") != -1:
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0))
         elif key.find("btn-secondary") != -1:
@@ -59,9 +66,10 @@ def render_content_with_text(key, value):
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0))
         elif key.find("select") != -1:
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=1, space_number=0))
+        elif key.find("b") != -1:
+            value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=3, space_number=0))
         elif key.find("nav-link-disabled") != -1:
-            value = value.replace(TEXT_PLACE_HOLDER,
-            Utils.get_random_text(length_text=5, space_number=0, with_upper_case=False))
+            value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0, with_upper_case=False))
 
     return value
 
