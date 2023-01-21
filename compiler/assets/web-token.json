@@ -97,6 +97,7 @@
     "btn-outline-primary": "<button class=\"btn btn-outline-primary\" type=\"submit\">[]</button>\n",
 
     "album": "<div class=\"album\">\n{}\n</div>\n",
+    "album-py-5": "<div class=\"album py-5\">\n{}\n</div>\n",
     "album-py-5-bg-light": "<div class=\"album py-5 bg-light\">\n{}\n</div>\n",
     "col-md-4": "<div class=\"col-md-4\">\n{}\n</div>\n",
     "svg-bd-placeholder-img-card-img-top": "<svg class=\"bd-placeholder-img card-img-top\" width=\"100%\" height=\"225\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Placeholder: Thumbnail\" preserveAspectRatio=\"xMidYMid slice\" focusable=\"false\"><title>[]</title><rect width=\"100%\" height=\"100%\" fill=\"#55595c\"></rect><text x=\"50%\" y=\"50%\" fill=\"#eceeef\" dy=\".3em\">[]</text></svg>\n",
@@ -285,7 +286,7 @@
     "col-lg-6-order-first-order-lg-last": "<div class=\"col-lg-6 order-first order-lg-last\">\n{}\n</div>\n",
     
     "aside": "<aside class=\"bg-primary bg-gradient rounded-3 p-4 p-sm-5 mt-5\">\n<div class=\"d-flex align-items-center justify-content-between flex-column flex-xl-row text-center text-xl-start\">\n<div class=\"mb-4 mb-xl-0\">\n<div class=\"fs-3 fw-bold text-white\">\nNew products, delivered to you.\n</div>\n<div class=\"text-white-50\">\nSign up for our newsletter for the latest updates.\n</div>\n</div>\n<div class=\"ms-xl-4\">\n<div class=\"input-group mb-2\">\n<input class=\"form-control\" type=\"text\" placeholder=\"Email address...\" aria-label=\"Email address...\" aria-describedby=\"button-newsletter\"/>\n<button class=\"btn btn-outline-light\" id=\"button-newsletter\" type=\"button\">Sign up</button>\n</div>\n<div class=\"small text-white-50\">\nWe care about privacy, and will never share your data.\n</div>\n</div>\n</div>\n</aside>\n",
-    "text-decoration-none": "<a class=\"text-decoration-none\" href=\"#!\"> [] <i class=\"bi-arrow-right\"></i></a>\n",
+    "text-decoration-none": "<a style=\"font-size: 30px;\" class=\"text-decoration-none\" href=\"#!\"><b> [] <i class=\"bi-arrow-right\"></i></a></b>\n",
     "h3-fw-bolder-text-decoration-none-link-dark-stretched-link": "<a class=\"h3 fw-bolder text-decoration-none link-dark stretched-link\" href=\"#!\">[]</a>\n",
     "h2-display-4-fw-bolder-mb-4": "<h2 class=\"display-4 fw-bolder mb-4\">[]</h2>\n",
     "btn-btn-lg-btn-primary": " <a class=\"btn btn-lg btn-primary\" href=\"#!\">[]</a>\n",

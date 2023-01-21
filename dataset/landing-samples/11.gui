@@ -1,4 +1,5 @@
-album-py-5-bg-light{
+container{
+album-py-5{
 container{
 row{
 col-md-4{
@@ -24,6 +25,7 @@ d-flex-justify-content-between{
 btn-group{
 btn-outline-secondary-sm
 btn-outline-secondary-sm
+}
 }
 }
 }

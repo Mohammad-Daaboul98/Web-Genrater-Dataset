@@ -1,4 +1,5 @@
-album-py-5-bg-light{
+container{
+album-py-5{
 container{
 row{
 col-md-4{
@@ -87,6 +88,7 @@ btn-outline-secondary
 btn-outline-secondary
 }
 small-text-muted
+}
 }
 }
 }

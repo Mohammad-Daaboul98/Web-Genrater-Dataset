@@ -1,4 +1,4 @@
-br
+container{
 text-center{
 row{
 col-md-4{
@@ -30,4 +30,5 @@ h-3
 }
 }
 br
+}
 }

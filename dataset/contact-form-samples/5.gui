@@ -1,11 +1,9 @@
 container{
 bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5{
-row{
-col{
-input-text-form-control
-}
-col{
-input-text-form-control
+form{
+form-group{
+label-white
+input-file-form-control-white
 }
 }
 }
