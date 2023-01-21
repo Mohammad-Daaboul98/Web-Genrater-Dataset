@@ -1,0 +1,13 @@
+container{
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5{
+form-inline{
+label-my-1-mr-2-white
+custom-select-my-1-mr-sm-2
+custom-control-custom-checkbox-my-1-mr-sm-2{
+input-checkbox-custom-control
+label-custom-control-white
+}
+btn-primary-my-1
+}
+}
+}

@@ -1,0 +1,17 @@
+container{
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5{
+form{
+form-row{
+col-7{
+input-text-form-control
+}
+col{
+input-text-form-control
+}
+col{
+input-text-form-control
+}
+}
+}
+}
+}
