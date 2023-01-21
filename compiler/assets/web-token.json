@@ -236,6 +236,7 @@
     "section-py-5": "<section class=\"py-5\">\n{}\n</section>\n",
     "container-px-5": "<div class=\"container px-5\">\n{}\n</div>\n",
     "bg-light-rounded-3-py-5-px-4-px-md-5-mb-5": "<div class=\"bg-light rounded-3 py-5 px-4 px-md-5 mb-5\">\n{}\n</div>\n",
+    "bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5": "<div class=\"bg-dark rounded-3 py-5 px-4 px-md-5 mb-5\">\n{}\n</div>\n",
     "text-center-mb-5": "<div class=\"text-center mb-5\">\n{}\n</div>\n",
     "fw-bolder": "<div class=\"fw-bolder\">\n{}\n</div>\n",
     "row-gx-5-justify-content-center": "<div class=\"row gx-5 justify-content-center\">\n{}\n</div>\n",
@@ -300,10 +301,13 @@
     "//new-added": "V_9.4",
     "pricing-plan-card-group-d-flex": "<div class=\"pricing-plan card-group d-flex\">\n{}\n</div>\n",
     "card-set-price-p-1-d-none-d-lg-none-d-lg-block": "<div class=\"card set-price p-1 d-none d-lg-none d-lg-block\">\n{}\n</div>\n",
-    "card-header-text-center-pb-4-item": "<div class=\"card-header text-center pb-4 item\">\n{}\n</div>\n",
+    "card-header-text-center-pb-4-item": "<div style=\"background: black;\" class=\"card-header text-center pb-4 item\">\n{}\n</div>\n",
     "h5-pt-3-text-black-card-title": "<h5 class=\"pt-3 text-black card-title\">[]</h5>\n",
     "span-h1-text-black": "<span class=\"h1 text-black\">[]</span>\n",
     "p-small-text-black": "<p class=\"small text-black\">[]</p>\n",
+    "h5-pt-3-text-white-card-title": "<h5 class=\"pt-3 text-white card-title\">[]</h5>\n",
+    "span-h1-text-white": "<span class=\"h1 text-white\">[]</span>\n",
+    "p-small-text-white": "<p class=\"small text-white\">[]</p>\n",
     "card-body-d-flex-flex-column": "<div class=\"card-body d-flex flex-column\">\n{}\n</div>\n",
     "list-unstyled-text-right": "<ul class=\"list-unstyled text-right\">\n{}\n</ul>\n",
     "w-100-d-md-none-mt-4": "<div class=\"w-100 d-md-none mt-4\">\n{}\n</div>\n",
@@ -313,6 +317,7 @@
     "fa-check": "<i class=\"fa fa-check\" data-unicode=\"f00c\"></i>\n",
     "fa-times": "<i class=\"fa fa-times\" data-unicode=\"f00d\"></i>\n",
     "btn-lg-btn-block-btn-dark-mt-auto": "<a class=\"btn btn-lg btn-block btn-dark mt-auto\" href=\"#\">[]</a>\n",
+    "btn-lg-btn-block-btn-success-mt-auto": "<a class=\"btn btn-lg btn-block btn-success mt-auto\" href=\"#\">[]</a>\n",
     "card-advanced-p-1": "<div class=\"card advanced p-1\">\n{}\n</div>\n",
     "card-business-p-1": "<div class=\"card business p-1\">\n{}\n</div>\n",
     "col-md-4-col-sm-6": "<div class=\"col-md-4 col-sm-6\">\n{}\n</div>\n",
@@ -381,7 +386,10 @@
     "fa-comment-text-info": "<i class=\"fa fa-comment text-info\"></i>\n",
     "input-btn-info-btn-block-rounded-0-py-2": "<input type=\"submit\" value=\"Enviar\" class=\"btn btn-info btn-block rounded-0 py-2\">\n",
     "h3": "<h3>{}</h3>\n",
-
+    "h1-white": "<h1 style=\"color: white;\">[]</h1>\n",
+    "label-white": "<label for=\"\" style=\"color: white;\">[]</label>\n",
+    "margin-5p": "<div style=\"margin: 5%;\">\n{}\n</div>\n",
+    "margin-top-3p": "<div style=\"margin-top: 3%;\">\n{}\n</div>\n",
     
 
     "any": "any"
