@@ -83,7 +83,7 @@
     
     "h5-my-0": "<h5 class=\"my-0 mr-md-auto font-weight-normal\">[]</h5>\n",
     "nav-my-2": "<nav class=\"my-2 my-md-0 mr-md-3\">\n{}\n</nav>\n",
-    "a-text-dark": "<a class=\"p-2 text-dark\" href=\"#\">[]</a>\n",
+    "a-p2-text-dark": "<a class=\"p-2 text-dark\" href=\"#\">[]</a>\n",
     "d-flex": "<div class=\"d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm\">\n{}\n</div>\n",
     "text-center": "<div class=\"text-center\">\n{}\n</div>\n",
     "card-deck": "<div class=\"card-deck mb-3 text-center\">\n{}\n</div>\n",
@@ -100,7 +100,7 @@
     "album-py-5": "<div class=\"album py-5\">\n{}\n</div>\n",
     "album-py-5-bg-light": "<div class=\"album py-5 bg-light\">\n{}\n</div>\n",
     "col-md-4": "<div class=\"col-md-4\">\n{}\n</div>\n",
-    "svg-bd-placeholder-img-card-img-top": "<svg class=\"bd-placeholder-img card-img-top\" width=\"100%\" height=\"225\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Placeholder: Thumbnail\" preserveAspectRatio=\"xMidYMid slice\" focusable=\"false\"><title>[]</title><rect width=\"100%\" height=\"100%\" fill=\"#55595c\"></rect><text x=\"50%\" y=\"50%\" fill=\"#eceeef\" dy=\".3em\">[]</text></svg>\n",
+    "svg-bd-placeholder-img-card-img-top": "<svg class=\"bd-placeholder-img card-img-top\" width=\"100%\" height=\"225\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Placeholder: Thumbnail\" preserveAspectRatio=\"xMidYMid slice\" focusable=\"false\"><title>Thumbnail</title><rect width=\"100%\" height=\"100%\" fill=\"#55595c\"></rect><text x=\"50%\" y=\"50%\" fill=\"#eceeef\" dy=\".3em\">[]</text></svg>\n",
     "p-card-text": "<p class=\"card-text\">[]</p>\n",
     "d-flex-center": "<div class=\"d-flex justify-content-between align-items-center\">\n{}\n</div>\n",
     "btn-group": "<div class=\"btn-group\">\n{}\n</div>\n",
@@ -286,7 +286,6 @@
     "col-lg-6-order-first-order-lg-last": "<div class=\"col-lg-6 order-first order-lg-last\">\n{}\n</div>\n",
     
     "aside": "<aside class=\"bg-primary bg-gradient rounded-3 p-4 p-sm-5 mt-5\">\n<div class=\"d-flex align-items-center justify-content-between flex-column flex-xl-row text-center text-xl-start\">\n<div class=\"mb-4 mb-xl-0\">\n<div class=\"fs-3 fw-bold text-white\">\nNew products, delivered to you.\n</div>\n<div class=\"text-white-50\">\nSign up for our newsletter for the latest updates.\n</div>\n</div>\n<div class=\"ms-xl-4\">\n<div class=\"input-group mb-2\">\n<input class=\"form-control\" type=\"text\" placeholder=\"Email address...\" aria-label=\"Email address...\" aria-describedby=\"button-newsletter\"/>\n<button class=\"btn btn-outline-light\" id=\"button-newsletter\" type=\"button\">Sign up</button>\n</div>\n<div class=\"small text-white-50\">\nWe care about privacy, and will never share your data.\n</div>\n</div>\n</div>\n</aside>\n",
-    "text-decoration-none": "<a style=\"font-size: 30px;\" class=\"text-decoration-none\" href=\"#!\"><b> [] <i class=\"bi-arrow-right\"></i></a></b>\n",
     "h3-fw-bolder-text-decoration-none-link-dark-stretched-link": "<a class=\"h3 fw-bolder text-decoration-none link-dark stretched-link\" href=\"#!\">[]</a>\n",
     "h2-display-4-fw-bolder-mb-4": "<h2 class=\"display-4 fw-bolder mb-4\">[]</h2>\n",
     "btn-btn-lg-btn-primary": " <a class=\"btn btn-lg btn-primary\" href=\"#!\">[]</a>\n",
@@ -404,6 +403,32 @@
     "margin-top-3p": "<div style=\"margin-top: 3%;\">\n{}\n</div>\n",
     
 
+    "//newwwww": "",
+    "jumbotron-p-3-p-md-5-text-white-rounded-bg-dark": "<div class=\"jumbotron p-3 p-md-5 text-white rounded bg-dark\">\n{}\n</div>\n",
+    "col-md-6": "<div class=\"col-md-6\">\n{}\n</div>\n",
+    "col-md-6-px-0": "<div class=\"col-md-6 px-0\">\n{}\n</div>\n",
+    "h1-display-4-font-italic-custom": "<h1 class=\"display-4 font-italic\">Title of a longer featured blog post</h1>\n",
+    "p-lead-my-3-custom": "<p class=\"lead my-3\">Multiple lines of text that form the lede, informing new readers quickly and efficiently about what's most interesting in this post's contents.</p>\n",
+    "p-lead-mb-0-a-text-white-font-weight-bold": "<p class=\"lead mb-0\"><a href=\"#\" class=\"text-white font-weight-bold\">Continue reading...</a></p>\n",
+    
+    "row-mb-2": "<div class=\"row mb-2\">\n{}\n</div>\n",
+    "card-flex-md-row-mb-4-shadow-sm-h-md-250": "<div class=\"card flex-md-row mb-4 shadow-sm h-md-250\">\n{}\n</div>\n",
+    "card-body-d-flex-flex-column-align-items-start": "<div class=\"card-body d-flex flex-column align-items-start\">\n{}\n</div>\n",
+    "strong-d-inline-block-mb-2-text-primary": "<strong class=\"d-inline-block mb-2 text-primary\">Title</strong>\n",
+    "strong-d-inline-block-mb-2-text-success": "<strong class=\"d-inline-block mb-2 text-success\">Title</strong>\n",
+    "h3-mb-0-a-text-dark-custom": "<h3 class=\"mb-0\"><a class=\"text-dark\" href=\"#\">Featured post</a></h3>\n",
+    "mb-1-text-muted-custom": "<div class=\"mb-1 text-muted\">Nov 12</div>\n",
+    "p-card-text-mb-auto-custom": "<p class=\"card-text mb-auto\">This is a wider card with supporting text below as a natural lead-in to additional content.</p>\n",
+    "a-cr-custom": "<a href=\"#\"><b>Continue reading</b></a>\n",
+    "svg-card-img-right-flex-auto-d-none-d-lg-block": "<svg class=\"card-img-right flex-auto d-none d-lg-block\" width=\"420\" height=\"250\" xmlns=\"http://www.w3.org/2000/svg\" role=\"img\" aria-label=\"Placeholder: Thumbnail\" preserveAspectRatio=\"xMidYMid slice\" focusable=\"false\">\n<rect width=\"100%\" height=\"100%\" fill=\"#55595c\"></rect>\n<text x=\"30%\" y=\"50%\" fill=\"#eceeef\" dx=\".5em\" dy=\".5em\">Thumbnail</text>\n</svg>\n",
+
+    "col-md-5-p-lg-5-mx-auto-my-5": "<div class=\"col-md-5 p-lg-5 mx-auto my-5\">\n{}\n</div>\n",
+    "h1-display-4-font-weight-normal-custom": "<h1 class=\"display-4 font-weight-normal\">Punny headline</h1>\n",
+    "p-lead-font-weight-normal-custom": "<p class=\"lead font-weight-normal\">And an even wittier subheading to boot. Jumpstart your marketing efforts with this example based on Apple's marketing pages.</p>\n",
+
+    "h1-long": "<h1>[][]</h1>\n",
+    "paragraph-lead-long": "<p class=\"lead\">[][][][][]<br>[][][][][][][][][]<br>[][][]</p>\n",
+    
 
     "any": "any"
 }

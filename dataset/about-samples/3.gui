@@ -1,6 +1,7 @@
 container{
 text-center{
-h-1
-paragraph-lead
+h1-long
+br
+paragraph-lead-long
 }
 }
