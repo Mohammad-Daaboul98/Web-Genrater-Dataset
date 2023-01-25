@@ -248,6 +248,7 @@
     "container-px-5": "<div class=\"container px-5\">\n{}\n</div>\n",
     "bg-light-rounded-3-py-5-px-4-px-md-5-mb-5": "<div class=\"bg-light rounded-3 py-5 px-4 px-md-5 mb-5\">\n{}\n</div>\n",
     "bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5": "<div class=\"bg-dark rounded-3 py-5 px-4 px-md-5 mb-5\">\n{}\n</div>\n",
+    "bg-info-rounded-3-py-5-px-4-px-md-5-mb-5": "<div class=\"bg-info rounded-3 py-5 px-4 px-md-5 mb-5\">\n{}\n</div>\n",
     "text-center-mb-5": "<div class=\"text-center mb-5\">\n{}\n</div>\n",
     "fw-bolder": "<div class=\"fw-bolder\">\n{}\n</div>\n",
     "row-gx-5-justify-content-center": "<div class=\"row gx-5 justify-content-center\">\n{}\n</div>\n",

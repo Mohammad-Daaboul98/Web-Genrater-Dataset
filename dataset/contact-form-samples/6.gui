@@ -1,5 +1,5 @@
 container{
-bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5{
+bg-info-rounded-3-py-5-px-4-px-md-5-mb-5{
 form{
 form-row{
 form-group-col-md-6{
@@ -39,7 +39,7 @@ input-checkbox-form-check
 form-check-label-white
 }
 }
-btn-success
+btn-danger
 }
 }
 }

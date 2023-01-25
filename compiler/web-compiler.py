@@ -47,7 +47,7 @@ def render_content_with_text(key, value):
         elif key.find("a") != -1:
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0))
         elif key.find("p") != -1:
-            value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=50, space_number=0))
+            value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=30, space_number=0))
         elif key.find("paragraph") != -1:
             value = value.replace(TEXT_PLACE_HOLDER, Utils.get_random_text(length_text=5, space_number=0))
         elif key.find("paragraph-lead") != -1:
