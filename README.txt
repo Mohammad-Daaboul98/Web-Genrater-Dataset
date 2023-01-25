@@ -23,5 +23,6 @@ API:
 https://drive.google.com/open?id=1-AuMksk3cdewluEA9sU6g604hZs2HP11&authuser=junior.colap.22%40gmail.com&usp=drive_fs
 
 
-Resource:
+Resources:
 https://github.com/VaibhavYadav/pytorch_pix2code
+https://github.com/tonybeltramelli/pix2code
