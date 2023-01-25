@@ -6,7 +6,7 @@ img-fluid-rounded-mb-5-mb-lg-0
 }
 col-lg-6{
 h2-fw-bolder
-paragraph
+paragraph-lead-long
 }
 }
 }
