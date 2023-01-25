@@ -1,9 +1,7 @@
 container{
-section-py-5{
 row-gx-5{
 col-12{
 img-fluid-rounded-3-mb-5
-}
 }
 }
 }

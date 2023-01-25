@@ -1,4 +1,3 @@
-container{
 album-py-5{
 container{
 row{
@@ -43,7 +42,6 @@ btn-primary
 btn-success
 }
 small-text-muted
-}
 }
 }
 }
