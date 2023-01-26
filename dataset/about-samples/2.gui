@@ -3,7 +3,7 @@ container{
 row{
 col-lg-4{
 svg-140px
-h-2
+h-2s
 paragraph-mid
 }
 col-lg-4{
