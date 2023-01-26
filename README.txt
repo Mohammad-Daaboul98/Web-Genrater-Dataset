@@ -18,6 +18,10 @@ New-Dataset-V1:
 https://drive.google.com/drive/folders/1n-8qbBCxD4ACm6zngURMC2yk2T1opqtQ?usp=share_link
 
 
+New-Dataset-V2:
+https://drive.google.com/drive/folders/1lUg8sXgKAuWkGWfRGOO_IPK_g9NMDsTm?usp=sharing
+
+
 Dataset:
 https://drive.google.com/open?id=10y5reqWpbPMC96vE2jky-ujzn196JShl&authuser=junior.colap.22%40gmail.com&usp=drive_fs
 
