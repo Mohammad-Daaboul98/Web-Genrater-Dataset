@@ -430,6 +430,7 @@
 
     "h1-long": "<h1>[][]</h1>\n",
     "paragraph-lead-long": "<p class=\"lead\">[][][][][]<br>[][][][][][][][][]<br>[][][]</p>\n",
+    "paragraph-mid": "<p>[][][]<br>[][][][][]</p>\n",
     
 
     "any": "any"
