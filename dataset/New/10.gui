@@ -1,0 +1,45 @@
+header {
+navbar-dark {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item-active {
+nav-link
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+nav-item-dropdown {
+nav-link-dropdown-toggle
+dropdown-menu {
+dropdown-item
+dropdown-item
+dropdown-item
+}
+}
+}
+form-inline-success
+}
+}
+}
+br
+carousel-slide
+section-py-5 {
+container-px-5-my-5 {
+row-gx-5-align-items-center {
+col-lg-6-order-first-order-lg-last {
+img-fluid-rounded-mb-5-mb-lg-0
+}
+col-lg-6 {
+h2-fw-bolder
+paragraph-lead-long
+}
+}
+}
+}

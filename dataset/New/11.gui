@@ -1,0 +1,39 @@
+header {
+navbar-primary {
+container-fluid {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item {
+nav-link-active
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+}
+form-secondary
+}
+}
+}
+}
+br
+container {
+text-center {
+h1-long
+br
+paragraph-lead-long
+}
+}
+container {
+row-gx-5 {
+col-12 {
+img-fluid-rounded-3-mb-5
+}
+}
+}

@@ -1,0 +1,201 @@
+header {
+collapse-bg-primary {
+container {
+row {
+col-sm-8-col-md-7-py-4 {
+h-4-text-white
+paragraph-lead-light
+}
+col-sm-4-offset-md-1-py-4 {
+h-4-text-white
+list-unstyled-only {
+li {
+a-text-white
+}
+li {
+a-text-white
+}
+li {
+a-text-white
+}
+}
+}
+}
+}
+}
+navbar-dark-bg-primary-shadow {
+d-flex-justify-content-between {
+a-navbar-brand-d-flex-align-items-center
+navbar-toggler-icon-span
+}
+}
+}
+br
+container {
+row-mb-2 {
+col-md-6 {
+card-flex-md-row-mb-4-shadow-sm-h-md-250 {
+card-body-d-flex-flex-column-align-items-start {
+strong-d-inline-block-mb-2-text-primary
+h3-mb-0-a-text-dark-custom
+mb-1-text-muted-custom
+p-card-text-mb-auto-custom
+a-cr-custom
+}
+svg-card-img-right-flex-auto-d-none-d-lg-block
+}
+}
+col-md-6 {
+card-flex-md-row-mb-4-shadow-sm-h-md-250 {
+card-body-d-flex-flex-column-align-items-start {
+strong-d-inline-block-mb-2-text-success
+h3-mb-0-a-text-dark-custom
+mb-1-text-muted-custom
+p-card-text-mb-auto-custom
+a-cr-custom
+}
+svg-card-img-right-flex-auto-d-none-d-lg-block
+}
+}
+}
+}
+container-marketing {
+container {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph-mid
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph-mid
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph-mid
+}
+}
+}
+}
+container{
+row{
+col-md-4-col-sm-6{
+pricingTable{
+svg-0-0-360-220{
+g{
+path-ae003d
+}
+text-78
+text-29
+text-15
+}
+pricing-content{
+h3-title
+ul-pricing-content{
+li{
+b
+any
+}
+li{
+b
+any
+}
+li{
+b
+any
+}
+li{
+b
+any
+}
+li{
+b
+any
+}
+}
+pricingTable-signup
+}
+}
+}
+col-md-4-col-sm-6{
+pricingTable-blue{
+svg-0-0-360-220{
+g{
+path-005c99
+}
+text-78
+text-29
+text-15
+}
+pricing-content{
+h3-title
+ul-pricing-content{
+li{
+b
+any
+}
+li{
+b
+any
+}
+li{
+b
+any
+}
+li{
+b
+any
+}
+li{
+b
+any
+}
+}
+pricingTable-signup
+}
+}
+}
+col-md-4-col-sm-6{
+pricingTable-red{
+svg-0-0-360-220{{
+g{
+path-db2c29
+}
+text-78
+text-29
+text-15
+}
+pricing-content{
+h3-title
+ul-pricing-content{
+li{
+b
+any
+}
+li{
+b
+any
+}
+li{
+b
+any
+}
+li{
+b
+any
+}
+li{
+b
+any
+}
+}
+pricingTable-signup
+}
+}
+}
+}
+}
+}
