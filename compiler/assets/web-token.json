@@ -282,7 +282,7 @@
     "position-relative-mb-5": "<div class=\"position-relative mb-5\">\n{}\n</div>\n",
     "position-relative-mb-5-mb-lg-0": "<div class=\"position-relative mb-5 mb-lg-0\">\n{}\n</div>\n",
     "position-relative": "<div class=\"position-relative\">\n{}\n</div>\n",
-    "img-fluid-rounded-mb-5-mb-lg-0": "<img class=\"img-fluid rounded mb-5 mb-lg-0\" src=\"https://dummyimage.com/600x400/343a40/6c757d\" alt=\"...\" />\n",
+    "img-fluid-rounded-mb-5-mb-lg-0": "<img class=\"img-fluid rounded mb-5 mb-lg-0\" src=\"https://dummyimage.com/600x400/a6ab3f/ffffff\" alt=\"...\" />\n",
     "img-fluid-rounded-3-mb-5": "<img class=\"img-fluid rounded-3 mb-5\" src=\"https://dummyimage.com/1300x700/343a40/6c757d\" alt=\"...\" />\n",
     "img-fluid-rounded-3-mb-3": "<img class=\"img-fluid rounded-3 mb-3\" src=\"https://dummyimage.com/600x400/343a40/6c757d\" alt=\"...\" />\n",
     "col-lg-6-order-first-order-lg-last": "<div class=\"col-lg-6 order-first order-lg-last\">\n{}\n</div>\n",
