@@ -1,0 +1,99 @@
+header {
+navbar-primary {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item-active {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-disabled
+}
+}
+form-inline-light
+}
+}
+}
+br
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+btn-dark
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+btn-dark
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+btn-dark
+}
+}
+}
+}
+container {
+aside
+}

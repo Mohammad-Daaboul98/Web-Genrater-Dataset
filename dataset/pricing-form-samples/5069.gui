@@ -1,0 +1,226 @@
+header {
+container {
+navbar-collapse-secondary {
+h-4
+paragraph-lead
+}
+}
+}
+br
+section-bg-light-py-5 {
+container-px-5-my-5 {
+row-gx-5-justify-content-center {
+col-lg-6-col-xl-4 {
+card-mb-5-mb-xl-0 {
+card-body-p-5 {
+small-text-uppercase-fw-bold-text-muted {
+any
+}
+mb-3 {
+display-4-fw-bold
+text-muted
+}
+list-unstyled-mb-4 {
+li-mb-2 {
+bi-check
+strong
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2-text-muted {
+bi-x
+any
+}
+li-mb-2-text-muted {
+bi-x
+any
+}
+li-mb-2-text-muted {
+bi-x
+any
+}
+li-text-muted {
+bi-x
+any
+}
+}
+d-grid {
+btn-outline-primary
+}
+}
+}
+}
+col-lg-6-col-xl-4 {
+card-mb-5-mb-xl-0 {
+card-body-p-5 {
+small-text-uppercase-fw-bold {
+bi-star-fill
+}
+mb-3 {
+display-4-fw-bold
+text-muted
+}
+list-unstyled-mb-4 {
+li-mb-2 {
+bi-check
+strong
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-text-muted {
+bi-x
+any
+}
+}
+d-grid {
+btn-primary
+}
+}
+}
+}
+col-lg-6-col-xl-4 {
+card {
+card-body-p-5 {
+small-text-uppercase-fw-bold-text-muted {
+any
+}
+mb-3 {
+display-4-fw-bold
+text-muted
+}
+list-unstyled-mb-4 {
+li-mb-2 {
+bi-check
+strong
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+strong
+}
+li-text-muted {
+bi-check
+any
+}
+}
+d-grid {
+btn-outline-primary
+}
+}
+}
+}
+}
+}
+}
+container {
+row {
+col {
+nav-breadcrumb {
+ol-breadcrumb {
+li-breadcrumb-item {
+a-link
+}
+li-breadcrumb-item-active {
+any
+}
+}
+}
+}
+}
+row {
+col {
+card {
+card-header-bg-primary-text-white {
+fa-envelope
+any
+}
+card-body {
+form {
+form-group {
+label
+input-text-form-control
+}
+form-group {
+label
+input-email-form-control
+small-form-text
+}
+form-group {
+label
+textarea-form-control-6r
+}
+mx-auto {
+btn-primary-text-right
+}
+}
+}
+}
+}
+col-12-col-sm-4 {
+card-bg-light-mb-3 {
+card-header-bg-success-text-white-text-uppercase {
+fa-home
+any
+}
+card-body {
+paragraph
+paragraph
+paragraph
+paragraph
+paragraph
+}
+}
+}
+}
+}

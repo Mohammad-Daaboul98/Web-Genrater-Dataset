@@ -1,0 +1,461 @@
+header {
+collapse-bg-info {
+container {
+row {
+col-sm-8-col-md-7-py-4 {
+h-4-text-white
+paragraph-lead-light
+}
+col-sm-4-offset-md-1-py-4 {
+h-4-text-white
+list-unstyled-only {
+li {
+a-text-white
+}
+li {
+a-text-white
+}
+li {
+a-text-white
+}
+}
+}
+}
+}
+}
+navbar-dark-bg-info-shadow {
+d-flex-justify-content-between {
+a-navbar-brand-d-flex-align-items-center
+navbar-toggler-icon-span
+}
+}
+}
+br
+margin-5p {
+container-fluid {
+pricing-plan-card-group-d-flex {
+card-set-price-p-1-d-none-d-lg-none-d-lg-block {
+card-header-text-center-pb-4-item {
+h5-pt-3-text-white-card-title
+span-h1-text-white
+p-small-text-white
+}
+card-body-d-flex-flex-column {
+list-unstyled-text-right {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+}
+}
+w-100-d-md-none-mt-4 {
+}
+card-p-1-starter {
+card-header-text-center-pb-4-item {
+h5-pt-3-text-white-card-title
+span-h1-text-white
+p-small-text-white
+}
+card-body-d-flex-flex-column {
+list-unstyled-text-center {
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+any
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+any
+}
+li {
+span-d-lg-none
+fa-times
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-times
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+}
+btn-lg-btn-block-btn-success-mt-auto
+}
+}
+w-100-d-md-none-mt-4 {
+}
+card-advanced-p-1 {
+card-header-text-center-pb-4-item {
+h5-pt-3-text-white-card-title
+span-h1-text-white
+p-small-text-white
+}
+card-body-d-flex-flex-column {
+list-unstyled-text-center {
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+any
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+any
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+}
+btn-lg-btn-block-btn-success-mt-auto
+}
+}
+w-100-d-md-none-mt-4 {
+}
+card-business-p-1 {
+card-header-text-center-pb-4-item {
+h5-pt-3-text-white-card-title
+span-h1-text-white
+p-small-text-white
+}
+card-body-d-flex-flex-column {
+list-unstyled-text-center {
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+any
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+}
+btn-lg-btn-block-btn-success-mt-auto
+}
+}
+}
+}
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+btn-dark
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+btn-dark
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+btn-dark
+}
+}
+}
+}

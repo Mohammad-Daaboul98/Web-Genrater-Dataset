@@ -1,0 +1,97 @@
+header {
+navbar-dark {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item-active {
+nav-link
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+nav-item-dropdown {
+nav-link-dropdown-toggle
+dropdown-menu {
+dropdown-item
+dropdown-item
+dropdown-item
+}
+}
+}
+form-inline-success
+}
+}
+}
+br
+container {
+bg-info-rounded-3-py-5-px-4-px-md-5-mb-5 {
+form {
+form-row {
+form-group-col-md-6 {
+label-white
+input-email-form-control
+}
+form-group-col-md-6 {
+label-white
+input-password-form-control
+}
+}
+form-group {
+label-white
+input-text-form-control
+}
+form-group {
+label-white
+input-text-form-control
+}
+form-row {
+form-group-col-md-6 {
+label-white
+input-text-form-control
+}
+form-group-col-md-4 {
+label-white
+select5-form-control
+}
+form-group-col-md-2 {
+label-white
+input-text-form-control
+}
+}
+form-group {
+form-check {
+input-checkbox-form-check
+form-check-label-white
+}
+}
+btn-danger
+}
+}
+}
+container-marketing {
+container {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph-mid
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph-mid
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph-mid
+}
+}
+}
+}

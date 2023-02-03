@@ -1,0 +1,19 @@
+header {
+container {
+navbar-collapse-warning {
+h-4
+paragraph-lead
+}
+}
+}
+br
+container {
+aside
+}
+container {
+text-center {
+h1-long
+br
+paragraph-lead-long
+}
+}

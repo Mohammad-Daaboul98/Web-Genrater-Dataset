@@ -1,0 +1,104 @@
+header {
+navbar-warning {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item-active {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-disabled
+}
+}
+form-inline-light
+}
+}
+}
+br
+container {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+custom-file {
+custom-file-input
+custom-file-label
+}
+}
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+btn-dark
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+btn-dark
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+btn-dark
+}
+}
+}
+}

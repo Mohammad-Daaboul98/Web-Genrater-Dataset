@@ -1,0 +1,189 @@
+header {
+navbar-primary {
+container-fluid {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item {
+nav-link-active
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+}
+form-secondary
+}
+}
+}
+}
+br
+section-bg-light-py-5 {
+container-px-5-my-5 {
+row-gx-5-justify-content-center {
+col-lg-6-col-xl-4 {
+card-mb-5-mb-xl-0 {
+card-body-p-5 {
+small-text-uppercase-fw-bold-text-muted {
+any
+}
+mb-3 {
+display-4-fw-bold
+text-muted
+}
+list-unstyled-mb-4 {
+li-mb-2 {
+bi-check
+strong
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2-text-muted {
+bi-x
+any
+}
+li-mb-2-text-muted {
+bi-x
+any
+}
+li-mb-2-text-muted {
+bi-x
+any
+}
+li-text-muted {
+bi-x
+any
+}
+}
+d-grid {
+btn-outline-primary
+}
+}
+}
+}
+col-lg-6-col-xl-4 {
+card-mb-5-mb-xl-0 {
+card-body-p-5 {
+small-text-uppercase-fw-bold {
+bi-star-fill
+}
+mb-3 {
+display-4-fw-bold
+text-muted
+}
+list-unstyled-mb-4 {
+li-mb-2 {
+bi-check
+strong
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-text-muted {
+bi-x
+any
+}
+}
+d-grid {
+btn-primary
+}
+}
+}
+}
+col-lg-6-col-xl-4 {
+card {
+card-body-p-5 {
+small-text-uppercase-fw-bold-text-muted {
+any
+}
+mb-3 {
+display-4-fw-bold
+text-muted
+}
+list-unstyled-mb-4 {
+li-mb-2 {
+bi-check
+strong
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+strong
+}
+li-text-muted {
+bi-check
+any
+}
+}
+d-grid {
+btn-outline-primary
+}
+}
+}
+}
+}
+}
+}
+container {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+custom-file {
+custom-file-input
+custom-file-label
+}
+}
+}

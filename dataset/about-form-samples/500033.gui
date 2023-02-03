@@ -1,0 +1,61 @@
+header {
+navbar-danger {
+container-fluid {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item {
+nav-link-active
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+}
+form-inline-light
+}
+}
+}
+}
+br
+container-marketing {
+container {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph-mid
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph-mid
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph-mid
+}
+}
+}
+}
+container {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+form-inline {
+form-group-mb-2 {
+label-email-sr-only
+input-email-form-control
+}
+form-group-mx-sm-3-mb-2 {
+label-password-sr-only
+input-password-form-control
+}
+btn-primary-mb-2
+}
+}
+}

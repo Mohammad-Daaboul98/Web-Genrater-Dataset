@@ -1,0 +1,520 @@
+header {
+container {
+navbar-collapse-warning {
+h-4
+paragraph-lead
+}
+}
+}
+br
+section-bg-light-py-5 {
+container-px-5-my-5 {
+row-gx-5-justify-content-center {
+col-lg-6-col-xl-4 {
+card-mb-5-mb-xl-0 {
+card-body-p-5 {
+small-text-uppercase-fw-bold-text-muted {
+any
+}
+mb-3 {
+display-4-fw-bold
+text-muted
+}
+list-unstyled-mb-4 {
+li-mb-2 {
+bi-check
+strong
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2-text-muted {
+bi-x
+any
+}
+li-mb-2-text-muted {
+bi-x
+any
+}
+li-mb-2-text-muted {
+bi-x
+any
+}
+li-text-muted {
+bi-x
+any
+}
+}
+d-grid {
+btn-outline-primary
+}
+}
+}
+}
+col-lg-6-col-xl-4 {
+card-mb-5-mb-xl-0 {
+card-body-p-5 {
+small-text-uppercase-fw-bold {
+bi-star-fill
+}
+mb-3 {
+display-4-fw-bold
+text-muted
+}
+list-unstyled-mb-4 {
+li-mb-2 {
+bi-check
+strong
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-text-muted {
+bi-x
+any
+}
+}
+d-grid {
+btn-primary
+}
+}
+}
+}
+col-lg-6-col-xl-4 {
+card {
+card-body-p-5 {
+small-text-uppercase-fw-bold-text-muted {
+any
+}
+mb-3 {
+display-4-fw-bold
+text-muted
+}
+list-unstyled-mb-4 {
+li-mb-2 {
+bi-check
+strong
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+any
+}
+li-mb-2 {
+bi-check
+strong
+}
+li-text-muted {
+bi-check
+any
+}
+}
+d-grid {
+btn-outline-primary
+}
+}
+}
+}
+}
+}
+}
+margin-5p {
+container-fluid {
+pricing-plan-card-group-d-flex {
+card-set-price-p-1-d-none-d-lg-none-d-lg-block {
+card-header-text-center-pb-4-item {
+h5-pt-3-text-white-card-title
+span-h1-text-white
+p-small-text-white
+}
+card-body-d-flex-flex-column {
+list-unstyled-text-right {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+}
+}
+w-100-d-md-none-mt-4 {
+}
+card-p-1-starter {
+card-header-text-center-pb-4-item {
+h5-pt-3-text-white-card-title
+span-h1-text-white
+p-small-text-white
+}
+card-body-d-flex-flex-column {
+list-unstyled-text-center {
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+any
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+any
+}
+li {
+span-d-lg-none
+fa-times
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-times
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+}
+btn-lg-btn-block-btn-success-mt-auto
+}
+}
+w-100-d-md-none-mt-4 {
+}
+card-advanced-p-1 {
+card-header-text-center-pb-4-item {
+h5-pt-3-text-white-card-title
+span-h1-text-white
+p-small-text-white
+}
+card-body-d-flex-flex-column {
+list-unstyled-text-center {
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+any
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+any
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+}
+btn-lg-btn-block-btn-success-mt-auto
+}
+}
+w-100-d-md-none-mt-4 {
+}
+card-business-p-1 {
+card-header-text-center-pb-4-item {
+h5-pt-3-text-white-card-title
+span-h1-text-white
+p-small-text-white
+}
+card-body-d-flex-flex-column {
+list-unstyled-text-center {
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+any
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+}
+btn-lg-btn-block-btn-success-mt-auto
+}
+}
+}
+}
+}

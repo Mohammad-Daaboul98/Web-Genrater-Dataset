@@ -1,0 +1,70 @@
+header {
+container {
+navbar-collapse-danger {
+h-4
+paragraph-lead
+}
+}
+}
+br
+container {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+form-inline {
+form-group-mb-2 {
+label-email-sr-only
+input-email-form-control
+}
+form-group-mx-sm-3-mb-2 {
+label-password-sr-only
+input-password-form-control
+}
+btn-primary-mb-2
+}
+}
+}
+container {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+form {
+form-row {
+col-md-4-mb-3 {
+label-white
+input-text-form-control
+}
+col-md-4-mb-3 {
+label-white
+input-text-form-control
+}
+col-md-4-mb-3 {
+label-white
+input-group {
+input-group-prepend {
+span-input-group-text
+}
+input-text-form-control
+}
+}
+}
+form-row {
+col-md-6-mb-3 {
+label-white
+input-text-form-control
+}
+col-md-3-mb-3 {
+label-white
+input-text-form-control
+}
+col-md-3-mb-3 {
+label-white
+input-text-form-control
+}
+}
+form-group {
+form-check {
+input-checkbox-form-check
+form-check-label-white
+}
+}
+btn-primary
+}
+}
+}

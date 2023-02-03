@@ -1,0 +1,121 @@
+header {
+navbar-dark {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item-active {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-undisabled
+}
+nav-item-unactive {
+nav-link-disabled
+}
+}
+form-inline-light
+}
+}
+}
+br
+container {
+row-justify-content-center {
+col-12-col-md-8-col-lg-6-pb-5 {
+form {
+card-border-primary-rounded-0 {
+card-header-p-0 {
+bg-info-text-white-text-center-py-2 {
+h3 {
+fa-envelope
+any
+}
+p-m-0
+}
+}
+card-body-p-3 {
+form-group {
+input-group-mb-2 {
+input-group-prepend {
+input-group-text {
+fa-user-text-info
+}
+}
+input-text-form-control
+}
+}
+form-group {
+input-group-mb-2 {
+input-group-prepend {
+input-group-text {
+fa-envelope-text-info
+}
+}
+input-email-form-control
+}
+}
+form-group {
+input-group-mb-2 {
+input-group-prepend {
+input-group-text {
+fa-comment-text-info
+}
+}
+textarea-form-control
+}
+}
+text-center {
+input-btn-info-btn-block-rounded-0-py-2
+}
+}
+}
+}
+}
+}
+}
+margin-top-3p {
+container {
+row-justify-content-center {
+col-11 {
+row {
+col-lg-5-col-md-8-col-sm-8-d-block-m-auto {
+text-primary {
+fa-check-circle
+}
+pt-2-pb-1 {
+h-4
+}
+div {
+h1-pb-3-text-primary-font-weight-bold
+pb-2
+row-pb-5 {
+col-md-9-col-lg-7 {
+btn-lg-btn-block-btn-primary
+}
+}
+}
+}
+col-lg-5-col-md-8-col-sm-8-d-block-m-auto {
+color-primary-text-text-primary {
+fa-check-circle
+}
+pt-2-pb-1 {
+h-4
+}
+div {
+h1-pb-3-color-primary-text-text-primary-font-weight-bold
+pb-2
+row-pb-5 {
+col-md-9-col-lg-7 {
+btn-lg-btn-block-btn-primary
+}
+}
+}
+}
+}
+}
+}
+}
+}

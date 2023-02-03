@@ -1,0 +1,434 @@
+header {
+navbar-danger {
+container-fluid {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item {
+nav-link-active
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+}
+form-inline-dark
+}
+}
+}
+}
+br
+container {
+row-justify-content-center {
+col-12-col-md-8-col-lg-6-pb-5 {
+form {
+card-border-primary-rounded-0 {
+card-header-p-0 {
+bg-info-text-white-text-center-py-2 {
+h3 {
+fa-envelope
+any
+}
+p-m-0
+}
+}
+card-body-p-3 {
+form-group {
+input-group-mb-2 {
+input-group-prepend {
+input-group-text {
+fa-user-text-info
+}
+}
+input-text-form-control
+}
+}
+form-group {
+input-group-mb-2 {
+input-group-prepend {
+input-group-text {
+fa-envelope-text-info
+}
+}
+input-email-form-control
+}
+}
+form-group {
+input-group-mb-2 {
+input-group-prepend {
+input-group-text {
+fa-comment-text-info
+}
+}
+textarea-form-control
+}
+}
+text-center {
+input-btn-info-btn-block-rounded-0-py-2
+}
+}
+}
+}
+}
+}
+}
+margin-5p {
+container-fluid {
+pricing-plan-card-group-d-flex {
+card-set-price-p-1-d-none-d-lg-none-d-lg-block {
+card-header-text-center-pb-4-item {
+h5-pt-3-text-white-card-title
+span-h1-text-white
+p-small-text-white
+}
+card-body-d-flex-flex-column {
+list-unstyled-text-right {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+}
+}
+w-100-d-md-none-mt-4 {
+}
+card-p-1-starter {
+card-header-text-center-pb-4-item {
+h5-pt-3-text-white-card-title
+span-h1-text-white
+p-small-text-white
+}
+card-body-d-flex-flex-column {
+list-unstyled-text-center {
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+any
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+any
+}
+li {
+span-d-lg-none
+fa-times
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-times
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+}
+btn-lg-btn-block-btn-success-mt-auto
+}
+}
+w-100-d-md-none-mt-4 {
+}
+card-advanced-p-1 {
+card-header-text-center-pb-4-item {
+h5-pt-3-text-white-card-title
+span-h1-text-white
+p-small-text-white
+}
+card-body-d-flex-flex-column {
+list-unstyled-text-center {
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+any
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+any
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+}
+btn-lg-btn-block-btn-success-mt-auto
+}
+}
+w-100-d-md-none-mt-4 {
+}
+card-business-p-1 {
+card-header-text-center-pb-4-item {
+h5-pt-3-text-white-card-title
+span-h1-text-white
+p-small-text-white
+}
+card-body-d-flex-flex-column {
+list-unstyled-text-center {
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+any
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+li {
+span-d-lg-none
+fa-check
+}
+}
+btn-lg-btn-block-btn-success-mt-auto
+}
+}
+}
+}
+}

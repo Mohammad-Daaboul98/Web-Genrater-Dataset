@@ -1,0 +1,109 @@
+header {
+navbar-danger {
+container-fluid {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item {
+nav-link-active
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+}
+form-inline-light
+}
+}
+}
+}
+br
+margin-top-3p {
+container {
+row-justify-content-center {
+col-11 {
+row {
+col-lg-5-col-md-8-col-sm-8-d-block-m-auto {
+text-primary {
+fa-check-circle
+}
+pt-2-pb-1 {
+h-4
+}
+div {
+h1-pb-3-text-primary-font-weight-bold
+pb-2
+row-pb-5 {
+col-md-9-col-lg-7 {
+btn-lg-btn-block-btn-primary
+}
+}
+}
+}
+col-lg-5-col-md-8-col-sm-8-d-block-m-auto {
+color-primary-text-text-primary {
+fa-check-circle
+}
+pt-2-pb-1 {
+h-4
+}
+div {
+h1-pb-3-color-primary-text-text-primary-font-weight-bold
+pb-2
+row-pb-5 {
+col-md-9-col-lg-7 {
+btn-lg-btn-block-btn-primary
+}
+}
+}
+}
+}
+}
+}
+}
+}
+d-flex-flex-column {
+flex-shrink-0 {
+section-py-5 {
+container-px-5 {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+text-center-mb-5 {
+fw-bolder {
+h1-white
+}
+row-gx-5-justify-content-center {
+col-lg-8-col-xl-6 {
+form {
+form-row {
+label-white
+input-text-form-control
+}
+br
+form-row {
+label-white
+input-email-form-control
+}
+br
+form-row {
+label-white
+input-phone-form-control
+}
+br
+form-row {
+label-white
+textarea-form-control-6r
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}

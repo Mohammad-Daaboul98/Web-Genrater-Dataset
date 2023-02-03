@@ -1,0 +1,78 @@
+header {
+navbar-primary {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item-active {
+nav-link
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+nav-item-dropdown {
+nav-link-dropdown-toggle
+dropdown-menu {
+dropdown-item
+dropdown-item
+dropdown-item
+}
+}
+}
+form-secondary
+}
+}
+}
+br
+d-flex-flex-column {
+flex-shrink-0 {
+section-py-5 {
+container-px-5 {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+text-center-mb-5 {
+fw-bolder {
+h1-white
+}
+row-gx-5-justify-content-center {
+col-lg-8-col-xl-6 {
+form {
+form-row {
+label-white
+input-text-form-control
+}
+br
+form-row {
+label-white
+input-email-form-control
+}
+br
+form-row {
+label-white
+input-phone-form-control
+}
+br
+form-row {
+label-white
+textarea-form-control-6r
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+container {
+text-center {
+h1-long
+br
+paragraph-lead-long
+}
+}

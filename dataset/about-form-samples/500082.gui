@@ -1,0 +1,52 @@
+header {
+container {
+navbar-collapse-warning {
+h-4
+paragraph-lead
+}
+}
+}
+br
+d-flex-flex-column {
+flex-shrink-0 {
+section-py-5 {
+container-px-5 {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+text-center-mb-5 {
+fw-bolder {
+h1-white
+}
+row-gx-5-justify-content-center {
+col-lg-8-col-xl-6 {
+form {
+form-row {
+label-white
+input-text-form-control
+}
+br
+form-row {
+label-white
+input-email-form-control
+}
+br
+form-row {
+label-white
+input-phone-form-control
+}
+br
+form-row {
+label-white
+textarea-form-control-6r
+}
+}
+}
+}
+}
+}
+}
+}
+}
+}
+container {
+aside
+}

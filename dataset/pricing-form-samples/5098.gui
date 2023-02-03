@@ -1,0 +1,99 @@
+header {
+container {
+navbar-collapse-success {
+h-4
+paragraph-lead
+}
+}
+}
+br
+container {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+form {
+form-row {
+col-md-4-mb-3 {
+label-white
+input-text-form-control
+}
+col-md-4-mb-3 {
+label-white
+input-text-form-control
+}
+col-md-4-mb-3 {
+label-white
+input-group {
+input-group-prepend {
+span-input-group-text
+}
+input-text-form-control
+}
+}
+}
+form-row {
+col-md-6-mb-3 {
+label-white
+input-text-form-control
+}
+col-md-3-mb-3 {
+label-white
+input-text-form-control
+}
+col-md-3-mb-3 {
+label-white
+input-text-form-control
+}
+}
+form-group {
+form-check {
+input-checkbox-form-check
+form-check-label-white
+}
+}
+btn-primary
+}
+}
+}
+margin-top-3p {
+container {
+row-justify-content-center {
+col-11 {
+row {
+col-lg-5-col-md-8-col-sm-8-d-block-m-auto {
+text-primary {
+fa-check-circle
+}
+pt-2-pb-1 {
+h-4
+}
+div {
+h1-pb-3-text-primary-font-weight-bold
+pb-2
+row-pb-5 {
+col-md-9-col-lg-7 {
+btn-lg-btn-block-btn-primary
+}
+}
+}
+}
+col-lg-5-col-md-8-col-sm-8-d-block-m-auto {
+color-primary-text-text-primary {
+fa-check-circle
+}
+pt-2-pb-1 {
+h-4
+}
+div {
+h1-pb-3-color-primary-text-text-primary-font-weight-bold
+pb-2
+row-pb-5 {
+col-md-9-col-lg-7 {
+btn-lg-btn-block-btn-primary
+}
+}
+}
+}
+}
+}
+}
+}
+}

@@ -1,0 +1,151 @@
+header {
+collapse-bg-danger {
+container {
+row {
+col-sm-8-col-md-7-py-4 {
+h-4-text-white
+paragraph-lead-light
+}
+col-sm-4-offset-md-1-py-4 {
+h-4-text-white
+list-unstyled-only {
+li {
+a-text-white
+}
+li {
+a-text-white
+}
+li {
+a-text-white
+}
+}
+}
+}
+}
+}
+navbar-dark-bg-danger-shadow {
+d-flex-justify-content-between {
+a-navbar-brand-d-flex-align-items-center
+navbar-toggler-icon-span
+}
+}
+}
+br
+container {
+bg-info-rounded-3-py-5-px-4-px-md-5-mb-5 {
+form {
+form-row {
+form-group-col-md-6 {
+label-white
+input-email-form-control
+}
+form-group-col-md-6 {
+label-white
+input-password-form-control
+}
+}
+form-group {
+label-white
+input-text-form-control
+}
+form-group {
+label-white
+input-text-form-control
+}
+form-row {
+form-group-col-md-6 {
+label-white
+input-text-form-control
+}
+form-group-col-md-4 {
+label-white
+select5-form-control
+}
+form-group-col-md-2 {
+label-white
+input-text-form-control
+}
+}
+form-group {
+form-check {
+input-checkbox-form-check
+form-check-label-white
+}
+}
+btn-danger
+}
+}
+}
+container {
+card-deck {
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+btn-dark
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+btn-dark
+}
+}
+card {
+card-header {
+h-4
+}
+card-body {
+card-title
+list-unstyled {
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+li {
+any
+}
+}
+btn-dark
+}
+}
+}
+}

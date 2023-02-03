@@ -1,0 +1,54 @@
+header {
+navbar-dark {
+container-fluid {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+navbar-collapse {
+navbar-nav {
+nav-item {
+nav-link-active
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link-disabled
+}
+}
+form-inline-success
+}
+}
+}
+}
+br
+container-marketing {
+container {
+row {
+col-lg-4 {
+svg-140px
+h-2
+paragraph-mid
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph-mid
+}
+col-lg-4 {
+svg-140px
+h-2
+paragraph-mid
+}
+}
+}
+}
+container {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+custom-file {
+custom-file-input
+custom-file-label
+}
+}
+}

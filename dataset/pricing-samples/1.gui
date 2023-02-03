@@ -20,7 +20,7 @@ li{
 any
 }
 }
-btn-danger
+btn-dark
 }
 }
 card{
@@ -43,7 +43,7 @@ li{
 any
 }
 }
-btn-danger
+btn-dark
 }
 }
 card{
@@ -66,7 +66,7 @@ li{
 any
 }
 }
-btn-danger
+btn-dark
 }
 }
 }

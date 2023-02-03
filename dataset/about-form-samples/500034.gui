@@ -1,0 +1,62 @@
+header {
+navbar-navbar-expand-md-navbar-dark-bg-dark {
+container-padding-top-0 {
+navbar-brand
+navbar-toggler {
+navbar-toggler-icon
+}
+collapse-navbar-collapse-justify-content-end {
+navbar-nav-m-auto {
+nav-item {
+nav-link
+}
+nav-item-active {
+nav-link
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link
+}
+nav-item {
+nav-link
+}
+}
+form-inline-my-2-my-lg-0 {
+input-group-input-group-sm {
+input-text-form-control
+input-group-append {
+btn-secondary-btn-number
+}
+}
+btn-success-btn-sm-ml-3
+}
+}
+}
+}
+}
+br
+container {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+form-inline {
+form-group-mb-2 {
+label-email-sr-only
+input-email-form-control
+}
+form-group-mx-sm-3-mb-2 {
+label-password-sr-only
+input-password-form-control
+}
+btn-primary-mb-2
+}
+}
+}
+container {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+custom-file {
+custom-file-input
+custom-file-label
+}
+}
+}

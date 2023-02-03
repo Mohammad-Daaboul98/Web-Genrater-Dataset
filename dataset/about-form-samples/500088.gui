@@ -1,0 +1,68 @@
+header {
+container {
+navbar-collapse-success {
+h-4
+paragraph-lead
+}
+}
+}
+br
+section-py-5-bg-light {
+container-px-5-my-5 {
+row-gx-5-align-items-center {
+col-lg-6 {
+img-fluid-rounded-mb-5-mb-lg-0
+}
+col-lg-6 {
+h2-fw-bolder
+paragraph-lead-long
+}
+}
+}
+}
+container {
+bg-dark-rounded-3-py-5-px-4-px-md-5-mb-5 {
+form {
+form-row {
+col-md-4-mb-3 {
+label-white
+input-text-form-control
+}
+col-md-4-mb-3 {
+label-white
+input-text-form-control
+}
+col-md-4-mb-3 {
+label-white
+input-group {
+input-group-prepend {
+span-input-group-text
+}
+input-text-form-control
+}
+}
+}
+form-row {
+col-md-6-mb-3 {
+label-white
+input-text-form-control
+}
+col-md-3-mb-3 {
+label-white
+input-text-form-control
+}
+col-md-3-mb-3 {
+label-white
+input-text-form-control
+}
+}
+form-group {
+form-check {
+input-checkbox-form-check
+form-check-label-white
+}
+}
+btn-primary
+}
+}
+}
