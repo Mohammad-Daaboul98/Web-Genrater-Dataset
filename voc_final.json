@@ -392,7 +392,7 @@
 'label-white': 390,
 'margin-5p': 391,
 'margin-top-3p': 392,
-'jumbotron-p-3-p-md-5-text-white-rounded-bg-dark': 393,
+'jumbotron-p-3-p-md-5-text-white-rounded-bg-danger': 393,
 'col-md-6': 394,
 'col-md-6-px-0': 395,
 'h1-display-4-font-italic-custom': 396,
