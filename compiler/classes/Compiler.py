@@ -1,9 +1,5 @@
-#!/usr/bin/env python
-__author__ = 'Tony Beltramelli - www.tonybeltramelli.com'
-
 import json
 from classes.Node import *
-
 
 class Compiler:
     def __init__(self, dsl_mapping_file_path):

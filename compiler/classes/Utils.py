@@ -1,8 +1,5 @@
-__author__ = 'Tony Beltramelli - www.tonybeltramelli.com'
-
 import string
 import random
-
 
 class Utils:
     @staticmethod

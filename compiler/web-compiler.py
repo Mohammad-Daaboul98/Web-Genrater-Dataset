@@ -1,9 +1,4 @@
-#!/usr/bin/env python.
-from __future__ import print_function
-__author__ = 'Tony Beltramelli - www.tonybeltramelli.com'
-
 import sys
-
 from os.path import basename
 from classes.Utils import *
 from classes.Compiler import *

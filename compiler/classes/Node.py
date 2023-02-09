@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-from __future__ import print_function
-__author__ = 'Tony Beltramelli - www.tonybeltramelli.com'
-
-
 class Node:
     def __init__(self, key, parent_node, content_holder):
         self.key = key
